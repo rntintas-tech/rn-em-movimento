@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T20:07:46.799201+00:00",
+  "updated_at": "2026-08-26T21:46:31.092549+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -376,6 +376,14 @@
           "time": 8087
         },
         {
+          "name": "Vitor Oliveira",
+          "athlete_id": 207596870,
+          "distance": 13394.800000000001,
+          "activities": 3,
+          "elevation": 53.1,
+          "time": 4882
+        },
+        {
           "name": "Guilherme Siqueira",
           "athlete_id": 50526574,
           "distance": 11849.5,
@@ -446,14 +454,6 @@
           "activities": 3,
           "elevation": 102.8,
           "time": 6036
-        },
-        {
-          "name": "Vitor Oliveira",
-          "athlete_id": 207596870,
-          "distance": 8142.200000000001,
-          "activities": 2,
-          "elevation": 32.4,
-          "time": 3264
         },
         {
           "name": "Marcos Henrique",
