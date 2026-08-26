@@ -53,16 +53,59 @@ function currentAthletes() {
   return week ? aggregate([week]) : [];
 }
 
+/* ---------- count-up ---------- */
+function animateValue(el, target, formatter, duration = 1400) {
+  const start = performance.now();
+  const ease = (t) => 1 - Math.pow(1 - t, 3); // easeOutCubic
+  function frame(now) {
+    const p = Math.min((now - start) / duration, 1);
+    el.textContent = formatter(target * ease(p));
+    if (p < 1) requestAnimationFrame(frame);
+  }
+  requestAnimationFrame(frame);
+}
+
 /* ---------- hero stats ---------- */
 function renderHeroStats() {
   const all = aggregate(state.weeks);
   const km = all.reduce((s, a) => s + a.distance, 0) / 1000;
   const acts = all.reduce((s, a) => s + a.activities, 0);
   const elev = all.reduce((s, a) => s + a.elevation, 0);
-  document.getElementById("stat-athletes").textContent = fmt.int(all.length);
-  document.getElementById("stat-km").textContent = km.toLocaleString("pt-BR", { maximumFractionDigits: 0 });
-  document.getElementById("stat-activities").textContent = fmt.int(acts);
-  document.getElementById("stat-elev").textContent = fmt.elev(elev);
+  animateValue(document.getElementById("stat-athletes"), all.length, (v) => fmt.int(Math.round(v)));
+  animateValue(document.getElementById("stat-km"), km, (v) => v.toLocaleString("pt-BR", { maximumFractionDigits: 0 }));
+  animateValue(document.getElementById("stat-activities"), acts, (v) => fmt.int(Math.round(v)));
+  animateValue(document.getElementById("stat-elev"), elev, (v) => fmt.elev(v));
+}
+
+/* ---------- título digitado ---------- */
+function typeTitle() {
+  const l1 = document.querySelector("#hero-title .t-line1");
+  const l2 = document.querySelector("#hero-title .t-line2");
+  const glitch = document.querySelector("#hero-title .t-glitch");
+  const caret = document.querySelector("#hero-title .caret");
+  const seq = [[l1, "RN EM"], [l2, "MOVIMENTO "]];
+  let si = 0, ci = 0;
+
+  // reserva o espaço pra página não pular durante a digitação
+  l1.style.visibility = "hidden"; l1.textContent = "RN EM";
+  l2.style.visibility = "hidden"; l2.textContent = "MOVIMENTO ";
+  requestAnimationFrame(() => {
+    l1.textContent = ""; l1.style.visibility = "";
+    l2.textContent = ""; l2.style.visibility = "";
+
+    (function tick() {
+      if (si >= seq.length) {
+        glitch.style.visibility = "";
+        caret.classList.add("done");
+        return;
+      }
+      const [el, text] = seq[si];
+      el.textContent = text.slice(0, ++ci);
+      el.after(caret); // caret acompanha a linha ativa
+      if (ci >= text.length) { si++; ci = 0; }
+      setTimeout(tick, 55 + Math.random() * 90);
+    })();
+  });
 }
 
 /* ---------- filtro de semanas ---------- */
@@ -144,6 +187,7 @@ function renderTable(athletes) {
 
   rows.forEach((a, i) => {
     const tr = document.createElement("tr");
+    tr.className = "athlete-row";
     if (state.sortDir === "desc" && i < 3) tr.classList.add(`top-${i + 1}`);
     tr.innerHTML = `
       <td class="col-rank">${i + 1}</td>
@@ -152,6 +196,7 @@ function renderTable(athletes) {
       <td class="col-num">${fmt.int(a.activities)}</td>
       <td class="col-num">${fmt.elev(a.elevation)}<span class="unit">m</span></td>
       <td class="col-num">${fmt.time(a.time)}</td>`;
+    tr.addEventListener("click", () => toggleGapRow(tr, a, rows));
     tbody.appendChild(tr);
   });
 
@@ -159,6 +204,44 @@ function renderTable(athletes) {
     ? "acumulado de todas as semanas"
     : "somente a semana selecionada";
   note.textContent = `${rows.length} atleta(s) · ${label}`;
+}
+
+/* ---------- distância para o líder ---------- */
+function toggleGapRow(tr, athlete, rows) {
+  const tbody = tr.parentNode;
+  const existing = tbody.querySelector("tr.gap-row");
+  const wasOpen = tr.classList.contains("open");
+  tbody.querySelectorAll("tr.athlete-row.open").forEach((r) => r.classList.remove("open"));
+  if (existing) existing.remove();
+  if (wasOpen) return; // clicou de novo: só fecha
+
+  // líderes por distância (independente da ordenação atual da tabela)
+  const byDist = [...rows].sort((x, y) => y.distance - x.distance);
+  const pos = byDist.findIndex((r) => r === athlete) + 1;
+  const leader = byDist[0];
+
+  const gap = document.createElement("tr");
+  gap.className = "gap-row";
+  const td = document.createElement("td");
+  td.colSpan = 6;
+
+  let chips;
+  if (pos === 1) {
+    const second = byDist[1];
+    chips = `
+      <span class="gap-chip leader">🏆 <strong>Líder em distância!</strong></span>
+      ${second ? `<span class="gap-chip">Vantagem sobre ${escapeHtml(second.name)} (2º): <strong>${fmt.km(athlete.distance - second.distance)} km</strong></span>` : ""}`;
+  } else {
+    const ahead = byDist[pos - 2]; // quem está imediatamente à frente
+    chips = `
+      <span class="gap-chip">${pos}º em distância</span>
+      <span class="gap-chip leader">Para ${escapeHtml(leader.name)} (1º): <strong>faltam ${fmt.km(leader.distance - athlete.distance)} km</strong></span>
+      ${ahead && ahead !== leader ? `<span class="gap-chip">Para ${escapeHtml(ahead.name)} (${pos - 1}º): <strong>${fmt.km(ahead.distance - athlete.distance)} km</strong></span>` : ""}`;
+  }
+  td.innerHTML = `<div class="gap-inner">${chips}</div>`;
+  gap.appendChild(td);
+  tr.classList.add("open");
+  tr.after(gap);
 }
 
 /* ---------- util ---------- */
@@ -195,6 +278,7 @@ document.getElementById("search-athlete").addEventListener("input", (e) => {
 
 /* ---------- boot ---------- */
 (async function init() {
+  typeTitle();
   try {
     const res = await fetch(`${DATA_URL}?t=${Date.now()}`);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
