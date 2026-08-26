@@ -1,0 +1,386 @@
+/* ============================================================
+   RN EM MOVIMENTO 2.0 — Ranking do desafio
+   Identidade: RN Tintas branding book
+   ============================================================ */
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+img { display: block; }
+a { text-decoration: none; color: inherit; }
+button { font: inherit; cursor: pointer; border: none; background: none; }
+
+:root {
+  --red:        #e40421;
+  --blue:       #26348b;
+  --navy:       #000942;
+  --deep-blue:  #180094;
+  --neon:       #3cff00;
+  --white:      #ffffff;
+  --bg:         #f0f0f0;
+  --text:       #222222;
+  --text-soft:  #5a5f73;
+  --card:       #ffffff;
+  --line:       #e3e4ea;
+  --strava:     #fc4c02;
+
+  --gold:   #f5b301;
+  --silver: #9aa3b2;
+  --bronze: #c47b3d;
+
+  --ff: 'Open Sans', sans-serif;
+  --radius: 14px;
+  --shadow: 0 8px 28px rgba(0, 9, 66, 0.08);
+  --shadow-lg: 0 16px 48px rgba(0, 9, 66, 0.14);
+}
+
+html { scroll-behavior: smooth; }
+body {
+  font-family: var(--ff);
+  background: var(--bg);
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ============ HERO ============ */
+.hero {
+  position: relative;
+  background: var(--navy);
+  color: var(--white);
+  overflow: hidden;
+}
+.hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse 60% 50% at 85% 10%, rgba(38, 52, 139, 0.55), transparent 60%),
+    radial-gradient(ellipse 40% 45% at 10% 90%, rgba(24, 0, 148, 0.5), transparent 65%);
+  pointer-events: none;
+}
+.hero-top {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 26px clamp(20px, 5vw, 64px);
+}
+.hero-logo { width: 104px; height: auto; }
+
+.strava-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 14px;
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.85);
+  transition: border-color 0.2s, background 0.2s;
+}
+.strava-badge:hover { border-color: var(--strava); background: rgba(252, 76, 2, 0.12); }
+
+.hero-body {
+  position: relative;
+  padding: clamp(28px, 6vw, 64px) clamp(20px, 5vw, 64px) clamp(44px, 7vw, 84px);
+  max-width: 1180px;
+  margin: 0 auto;
+  width: 100%;
+}
+.hero-kicker {
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--neon);
+  margin-bottom: 14px;
+}
+.hero-title {
+  font-size: clamp(44px, 8vw, 88px);
+  font-weight: 800;
+  line-height: 0.98;
+  letter-spacing: -0.02em;
+}
+.hero-title span { color: transparent; -webkit-text-stroke: 2px rgba(255,255,255,0.85); }
+.hero-sub {
+  margin-top: 18px;
+  font-size: clamp(14px, 1.6vw, 17px);
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.75);
+  max-width: 480px;
+}
+.hero-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: clamp(20px, 4vw, 56px);
+  margin-top: clamp(30px, 5vw, 52px);
+}
+.hero-stat strong {
+  display: block;
+  font-size: clamp(26px, 3.4vw, 40px);
+  font-weight: 800;
+  line-height: 1;
+}
+.hero-stat span {
+  display: block;
+  margin-top: 6px;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: rgba(255, 255, 255, 0.55);
+}
+.hero-stripe {
+  position: relative;
+  height: 8px;
+  background: linear-gradient(90deg, var(--red) 0 34%, var(--blue) 34% 67%, var(--neon) 67% 100%);
+}
+
+/* ============ SEÇÕES ============ */
+main {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 0 clamp(16px, 4vw, 48px) 80px;
+}
+.section-heading {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  margin: clamp(44px, 7vw, 72px) 0 30px;
+  font-size: clamp(22px, 2.6vw, 30px);
+  font-weight: 300;
+  letter-spacing: -0.01em;
+}
+.section-heading::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--line);
+}
+.section-heading span { white-space: nowrap; }
+
+/* ============ FILTRO DE SEMANA ============ */
+.week-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: clamp(28px, 5vw, 44px);
+}
+.week-btn {
+  padding: 10px 20px;
+  border-radius: 999px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-soft);
+  transition: all 0.2s;
+}
+.week-btn:hover { border-color: var(--blue); color: var(--blue); }
+.week-btn.active {
+  background: var(--navy);
+  border-color: var(--navy);
+  color: var(--white);
+}
+.week-btn.active .week-btn-range { color: rgba(255,255,255,0.6); }
+.week-btn-range {
+  display: block;
+  font-size: 10px;
+  font-weight: 400;
+  color: var(--text-soft);
+}
+
+/* ============ PÓDIOS ============ */
+.podium-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(310px, 1fr));
+  gap: 22px;
+}
+.podium-card {
+  background: var(--card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 26px 24px 30px;
+  border-top: 4px solid var(--red);
+}
+.podium-card:nth-child(2) { border-top-color: var(--blue); }
+.podium-card:nth-child(3) { border-top-color: var(--neon); }
+
+.podium-card-head {
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  margin-bottom: 26px;
+}
+.podium-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  display: grid;
+  place-items: center;
+  background: var(--navy);
+  color: var(--white);
+  flex-shrink: 0;
+}
+.podium-card-head h3 { font-size: 17px; font-weight: 700; }
+.podium-card-head p { font-size: 12px; color: var(--text-soft); }
+
+.podium-stage {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 8px;
+  align-items: end;
+  min-height: 210px;
+}
+.podium-slot { text-align: center; }
+.podium-slot .medal {
+  font-size: 22px;
+  line-height: 1;
+  margin-bottom: 6px;
+}
+.podium-slot .p-name {
+  font-size: 12.5px;
+  font-weight: 700;
+  line-height: 1.25;
+  margin-bottom: 2px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.podium-slot .p-value {
+  font-size: 11.5px;
+  font-weight: 600;
+  color: var(--text-soft);
+  margin-bottom: 8px;
+}
+.podium-slot .pillar {
+  border-radius: 8px 8px 0 0;
+  display: grid;
+  place-items: center;
+  font-size: 24px;
+  font-weight: 800;
+  color: rgba(255, 255, 255, 0.92);
+}
+.podium-slot.first  .pillar { height: 110px; background: linear-gradient(180deg, var(--gold), #d99e00); }
+.podium-slot.second .pillar { height: 78px;  background: linear-gradient(180deg, var(--silver), #7e8797); }
+.podium-slot.third  .pillar { height: 56px;  background: linear-gradient(180deg, var(--bronze), #a5622c); }
+.podium-slot.first  { order: 2; }
+.podium-slot.second { order: 1; }
+.podium-slot.third  { order: 3; }
+
+.podium-empty {
+  grid-column: 1 / -1;
+  text-align: center;
+  align-self: center;
+  color: var(--text-soft);
+  font-size: 13px;
+}
+
+/* ============ TABELA ============ */
+.ranking-tools {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+#search-athlete {
+  font: inherit;
+  font-size: 14px;
+  padding: 11px 18px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--card);
+  width: min(320px, 100%);
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+#search-athlete:focus { border-color: var(--blue); box-shadow: 0 0 0 3px rgba(38, 52, 139, 0.12); }
+.ranking-note { font-size: 12px; color: var(--text-soft); }
+
+.table-wrap {
+  background: var(--card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow-x: auto;
+}
+table { width: 100%; border-collapse: collapse; min-width: 640px; }
+thead th {
+  position: sticky;
+  top: 0;
+  background: var(--navy);
+  color: var(--white);
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 14px 16px;
+  text-align: left;
+  white-space: nowrap;
+}
+thead th.col-num { text-align: right; }
+thead th.sortable { cursor: pointer; user-select: none; }
+thead th.sortable:hover { background: var(--deep-blue); }
+thead th .arrow { display: inline-block; width: 10px; }
+thead th.sorted-desc .arrow::after { content: "▾"; }
+thead th.sorted-asc  .arrow::after { content: "▴"; }
+
+tbody td {
+  padding: 13px 16px;
+  font-size: 14px;
+  border-top: 1px solid var(--line);
+  white-space: nowrap;
+}
+tbody tr:hover { background: rgba(38, 52, 139, 0.04); }
+td.col-rank { font-weight: 800; color: var(--text-soft); width: 56px; }
+tr.top-1 td.col-rank { color: var(--gold); }
+tr.top-2 td.col-rank { color: var(--silver); }
+tr.top-3 td.col-rank { color: var(--bronze); }
+td.col-name { font-weight: 600; }
+td.col-name .you-tag {
+  display: inline-block;
+  margin-left: 8px;
+  padding: 2px 8px;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  border-radius: 999px;
+  background: var(--neon);
+  color: var(--navy);
+}
+td.col-num { text-align: right; font-variant-numeric: tabular-nums; }
+td.col-num .unit { font-size: 11px; color: var(--text-soft); margin-left: 3px; }
+
+tbody tr.empty-row td {
+  text-align: center;
+  padding: 40px 16px;
+  color: var(--text-soft);
+}
+
+/* ============ FOOTER ============ */
+.footer {
+  background: var(--navy);
+  color: rgba(255, 255, 255, 0.65);
+  text-align: center;
+  padding: 44px 20px;
+  font-size: 13px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.footer-logo { width: 88px; height: auto; opacity: 0.9; }
+.footer-updated { font-size: 11px; color: rgba(255, 255, 255, 0.4); }
+.strava-badge--footer { margin-top: 6px; font-size: 10px; }
+
+/* ============ RESPONSIVO ============ */
+@media (max-width: 560px) {
+  .hero-title span { -webkit-text-stroke: 1.4px rgba(255,255,255,0.85); }
+  .podium-stage { min-height: 190px; }
+  thead th, tbody td { padding: 11px 12px; }
+}

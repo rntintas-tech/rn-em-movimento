@@ -1,0 +1,7 @@
+# segredos — NUNCA commitar
+scripts/.env
+
+# lixo de sistema
+Thumbs.db
+.DS_Store
+__pycache__/
