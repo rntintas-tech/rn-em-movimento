@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T14:02:47.471487+00:00",
+  "updated_at": "2026-08-26T15:24:27.928991+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -168,6 +168,14 @@
           "time": 4593
         },
         {
+          "name": "Juliano Pereira Pires",
+          "athlete_id": 102641735,
+          "distance": 15136.5,
+          "activities": 2,
+          "elevation": 198.0,
+          "time": 5546
+        },
+        {
           "name": "Victor Fernandes",
           "athlete_id": 189241572,
           "distance": 14036.7,
@@ -230,14 +238,6 @@
           "activities": 2,
           "elevation": 81.0,
           "time": 3764
-        },
-        {
-          "name": "Juliano Pereira Pires",
-          "athlete_id": 102641735,
-          "distance": 10108.2,
-          "activities": 1,
-          "elevation": 140.0,
-          "time": 3786
         },
         {
           "name": "Brenda Lemos",
@@ -360,20 +360,20 @@
           "time": 7672
         },
         {
+          "name": "Simone Eduardo",
+          "athlete_id": 1791606203,
+          "distance": 14788.700000000003,
+          "activities": 10,
+          "elevation": 283.90000000000003,
+          "time": 13379
+        },
+        {
           "name": "Eduardo Luiz Silva",
           "athlete_id": 171774480,
           "distance": 13812.1,
           "activities": 2,
           "elevation": 44.8,
           "time": 8087
-        },
-        {
-          "name": "Simone Eduardo",
-          "athlete_id": 1791606203,
-          "distance": 13725.500000000002,
-          "activities": 9,
-          "elevation": 239.8,
-          "time": 12320
         },
         {
           "name": "Guilherme Siqueira",
@@ -390,6 +390,14 @@
           "activities": 2,
           "elevation": 122.30000000000001,
           "time": 4649
+        },
+        {
+          "name": "Juliano Pereira Pires",
+          "athlete_id": 102641735,
+          "distance": 10011.4,
+          "activities": 1,
+          "elevation": 86.0,
+          "time": 3787
         },
         {
           "name": "Paula Petrocchi de Faria",
