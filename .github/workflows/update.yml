@@ -2,7 +2,7 @@ name: Atualizar ranking
 
 on:
   schedule:
-    - cron: "0 * * * *"   # a cada hora (UTC)
+    - cron: "17 * * * *"  # a cada hora, no minuto 17 (minuto 0 é congestionado no GitHub)
   workflow_dispatch: {}    # permite rodar manualmente na aba Actions
 
 permissions:
