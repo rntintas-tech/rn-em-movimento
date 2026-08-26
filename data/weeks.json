@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T16:23:12.524459+00:00",
+  "updated_at": "2026-08-26T18:47:38.230936+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -424,6 +424,14 @@
           "time": 2620
         },
         {
+          "name": "Gabriel César",
+          "athlete_id": 81671329,
+          "distance": 8755.0,
+          "activities": 2,
+          "elevation": 184.7,
+          "time": 5515
+        },
+        {
           "name": "Ewerton Batista",
           "athlete_id": 1953513757,
           "distance": 8582.7,
@@ -470,14 +478,6 @@
           "activities": 1,
           "elevation": 0.0,
           "time": 2078
-        },
-        {
-          "name": "Gabriel César",
-          "athlete_id": 81671329,
-          "distance": 6985.3,
-          "activities": 1,
-          "elevation": 158.1,
-          "time": 4433
         },
         {
           "name": "Valquiria Pimenta",
