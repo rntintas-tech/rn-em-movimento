@@ -110,6 +110,29 @@ body {
   color: rgba(255, 255, 255, 0.75);
   max-width: 480px;
 }
+.hero-updated {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 16px;
+  padding: 7px 14px;
+  border: 1px solid rgba(60, 255, 0, 0.35);
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--neon);
+}
+.hero-updated::before {
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--neon);
+  box-shadow: 0 0 8px var(--neon);
+}
+.hero-updated:empty { display: none; }
 .hero-stats {
   display: flex;
   flex-wrap: wrap;
@@ -377,6 +400,19 @@ tbody tr.empty-row td {
 .footer-logo { width: 88px; height: auto; opacity: 0.9; }
 .footer-updated { font-size: 11px; color: rgba(255, 255, 255, 0.4); }
 .strava-badge--footer { margin-top: 6px; font-size: 10px; }
+.footer-credit {
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.5);
+}
+.footer-credit a {
+  color: var(--neon);
+  font-weight: 800;
+  transition: opacity 0.2s;
+}
+.footer-credit a:hover { opacity: 0.75; text-decoration: underline; }
 
 /* ============ RESPONSIVO ============ */
 @media (max-width: 560px) {

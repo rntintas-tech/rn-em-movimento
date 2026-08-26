@@ -203,8 +203,12 @@ document.getElementById("search-athlete").addEventListener("input", (e) => {
 
     if (data.updated_at) {
       const d = new Date(data.updated_at);
+      const dateStr = d.toLocaleDateString("pt-BR");
+      const timeStr = d.toLocaleTimeString("pt-BR", { hour: "2-digit", minute: "2-digit" });
+      document.getElementById("hero-updated").textContent =
+        `Atualizado em ${dateStr} às ${timeStr}`;
       document.getElementById("footer-updated").textContent =
-        `Dados atualizados em ${d.toLocaleDateString("pt-BR")} às ${d.toLocaleTimeString("pt-BR", { hour: "2-digit", minute: "2-digit" })}`;
+        `Dados atualizados em ${dateStr} às ${timeStr} · atualização automática a cada hora`;
     }
 
     renderHeroStats();
