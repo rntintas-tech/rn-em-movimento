@@ -1,0 +1,36 @@
+name: Atualizar ranking
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # a cada hora (UTC)
+  workflow_dispatch: {}    # permite rodar manualmente na aba Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-ranking
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Capturar leaderboard do Strava
+        env:
+          STRAVA_COOKIE: ${{ secrets.STRAVA_COOKIE }}
+        run: python3 scripts/update_from_cookie.py
+
+      - name: Commit se houver mudança
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet data/weeks.json; then
+            git add data/weeks.json
+            git commit -m "atualiza ranking ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          else
+            echo "Sem mudanças."
+          fi
