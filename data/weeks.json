@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T22:05:10.378600+00:00",
+  "updated_at": "2026-08-27T22:55:02.303280+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -400,6 +400,14 @@
           "time": 5830
         },
         {
+          "name": "Valquiria Pimenta",
+          "athlete_id": 1614692909,
+          "distance": 13631.2,
+          "activities": 5,
+          "elevation": 140.4,
+          "time": 8032
+        },
+        {
           "name": "Vitor Oliveira",
           "athlete_id": 207596870,
           "distance": 13394.800000000001,
@@ -454,14 +462,6 @@
           "activities": 2,
           "elevation": 122.30000000000001,
           "time": 4649
-        },
-        {
-          "name": "Valquiria Pimenta",
-          "athlete_id": 1614692909,
-          "distance": 10638.7,
-          "activities": 4,
-          "elevation": 129.0,
-          "time": 6203
         },
         {
           "name": "Paula Petrocchi de Faria",
@@ -534,6 +534,14 @@
           "activities": 1,
           "elevation": 12.8,
           "time": 1526
+        },
+        {
+          "name": "Juninho Lima",
+          "athlete_id": 50603323,
+          "distance": 5001.5,
+          "activities": 1,
+          "elevation": 0.0,
+          "time": 1868
         },
         {
           "name": "IGOR WILKEN",
