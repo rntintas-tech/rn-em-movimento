@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T19:05:11.552917+00:00",
+  "updated_at": "2026-08-27T20:05:12.629888+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -408,6 +408,14 @@
           "time": 4882
         },
         {
+          "name": "Cristiane Silva",
+          "athlete_id": 2048394068,
+          "distance": 13388.0,
+          "activities": 4,
+          "elevation": 158.2,
+          "time": 10148
+        },
+        {
           "name": "Bruno Ribeiro",
           "athlete_id": 4162713,
           "distance": 12249.3,
@@ -422,6 +430,14 @@
           "activities": 2,
           "elevation": 74.0,
           "time": 4001
+        },
+        {
+          "name": "Elias Soares",
+          "athlete_id": 2047991960,
+          "distance": 10800.0,
+          "activities": 4,
+          "elevation": 0.0,
+          "time": 5917
         },
         {
           "name": "Victor Fernandes",
@@ -470,22 +486,6 @@
           "activities": 1,
           "elevation": 166.8,
           "time": 5388
-        },
-        {
-          "name": "Cristiane Silva",
-          "athlete_id": 2048394068,
-          "distance": 8241.1,
-          "activities": 3,
-          "elevation": 102.8,
-          "time": 6036
-        },
-        {
-          "name": "Elias Soares",
-          "athlete_id": 2047991960,
-          "distance": 8000.0,
-          "activities": 3,
-          "elevation": 0.0,
-          "time": 4522
         },
         {
           "name": "Luciana Vanessa",
