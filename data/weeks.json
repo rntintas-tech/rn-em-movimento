@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T21:05:11.050717+00:00",
+  "updated_at": "2026-08-27T22:05:10.378600+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -432,6 +432,14 @@
           "time": 4001
         },
         {
+          "name": "Victor Carvalho",
+          "athlete_id": 145182515,
+          "distance": 11027.8,
+          "activities": 2,
+          "elevation": 41.0,
+          "time": 3860
+        },
+        {
           "name": "Elias Soares",
           "athlete_id": 2047991960,
           "distance": 10800.0,
@@ -520,14 +528,6 @@
           "time": 2301
         },
         {
-          "name": "Victor Carvalho",
-          "athlete_id": 145182515,
-          "distance": 5015.7,
-          "activities": 1,
-          "elevation": 0.0,
-          "time": 1834
-        },
-        {
           "name": "joao vitor leonel",
           "athlete_id": 151878632,
           "distance": 5013.9,
@@ -542,6 +542,14 @@
           "activities": 1,
           "elevation": 22.8,
           "time": 1503
+        },
+        {
+          "name": "Arthur Magalhaes",
+          "athlete_id": 107971152,
+          "distance": 4185.9,
+          "activities": 1,
+          "elevation": 16.2,
+          "time": 1362
         },
         {
           "name": "Eduardo Emílio",
