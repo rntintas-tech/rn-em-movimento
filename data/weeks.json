@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T14:05:10.981647+00:00",
+  "updated_at": "2026-08-27T15:05:13.676310+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -368,20 +368,20 @@
           "time": 6914
         },
         {
+          "name": "Simone Eduardo",
+          "athlete_id": 1791606203,
+          "distance": 19247.5,
+          "activities": 13,
+          "elevation": 344.7000000000001,
+          "time": 17336
+        },
+        {
           "name": "Gabriel César",
           "athlete_id": 81671329,
           "distance": 19129.7,
           "activities": 4,
           "elevation": 393.70000000000005,
           "time": 11102
-        },
-        {
-          "name": "Simone Eduardo",
-          "athlete_id": 1791606203,
-          "distance": 18157.5,
-          "activities": 12,
-          "elevation": 299.20000000000005,
-          "time": 16258
         },
         {
           "name": "Eduardo Luiz Silva",
