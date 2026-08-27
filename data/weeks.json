@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T21:46:31.092549+00:00",
+  "updated_at": "2026-08-27T00:45:58.455293+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -354,10 +354,26 @@
         {
           "name": "Robert Souza Souza",
           "athlete_id": 61299967,
-          "distance": 18920.0,
+          "distance": 23298.800000000003,
+          "activities": 5,
+          "elevation": 62.7,
+          "time": 10325
+        },
+        {
+          "name": "Marcos Henrique",
+          "athlete_id": 51519974,
+          "distance": 20146.4,
+          "activities": 3,
+          "elevation": 251.1,
+          "time": 6914
+        },
+        {
+          "name": "Gabriel César",
+          "athlete_id": 81671329,
+          "distance": 19129.7,
           "activities": 4,
-          "elevation": 53.300000000000004,
-          "time": 7672
+          "elevation": 393.70000000000005,
+          "time": 11102
         },
         {
           "name": "Simone Eduardo",
@@ -370,10 +386,18 @@
         {
           "name": "Eduardo Luiz Silva",
           "athlete_id": 171774480,
-          "distance": 13812.1,
+          "distance": 16407.5,
+          "activities": 3,
+          "elevation": 53.3,
+          "time": 9128
+        },
+        {
+          "name": "Juliano Pereira Pires",
+          "athlete_id": 102641735,
+          "distance": 14981.4,
           "activities": 2,
-          "elevation": 44.8,
-          "time": 8087
+          "elevation": 149.0,
+          "time": 5830
         },
         {
           "name": "Vitor Oliveira",
@@ -382,6 +406,14 @@
           "activities": 3,
           "elevation": 53.1,
           "time": 4882
+        },
+        {
+          "name": "Bruno Ribeiro",
+          "athlete_id": 4162713,
+          "distance": 12249.3,
+          "activities": 2,
+          "elevation": 41.2,
+          "time": 6193
         },
         {
           "name": "Guilherme Siqueira",
@@ -398,14 +430,6 @@
           "activities": 2,
           "elevation": 122.30000000000001,
           "time": 4649
-        },
-        {
-          "name": "Juliano Pereira Pires",
-          "athlete_id": 102641735,
-          "distance": 10011.4,
-          "activities": 1,
-          "elevation": 86.0,
-          "time": 3787
         },
         {
           "name": "Paula Petrocchi de Faria",
@@ -432,14 +456,6 @@
           "time": 2620
         },
         {
-          "name": "Gabriel César",
-          "athlete_id": 81671329,
-          "distance": 8755.0,
-          "activities": 2,
-          "elevation": 184.7,
-          "time": 5515
-        },
-        {
           "name": "Ewerton Batista",
           "athlete_id": 1953513757,
           "distance": 8582.7,
@@ -454,14 +470,6 @@
           "activities": 3,
           "elevation": 102.8,
           "time": 6036
-        },
-        {
-          "name": "Marcos Henrique",
-          "athlete_id": 51519974,
-          "distance": 8139.700000000001,
-          "activities": 2,
-          "elevation": 111.19999999999999,
-          "time": 2913
         },
         {
           "name": "Elias Soares",
@@ -494,14 +502,6 @@
           "activities": 3,
           "elevation": 91.7,
           "time": 3878
-        },
-        {
-          "name": "Bruno Ribeiro",
-          "athlete_id": 4162713,
-          "distance": 6097.3,
-          "activities": 1,
-          "elevation": 20.7,
-          "time": 3164
         },
         {
           "name": "Lara França",
