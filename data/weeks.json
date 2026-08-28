@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T22:05:08.863626+00:00",
+  "updated_at": "2026-08-28T23:05:09.105010+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -352,6 +352,14 @@
       "end": "2026-08-30",
       "athletes": [
         {
+          "name": "Marcos Henrique",
+          "athlete_id": 51519974,
+          "distance": 36573.100000000006,
+          "activities": 4,
+          "elevation": 419.19999999999993,
+          "time": 12468
+        },
+        {
           "name": "Paula Petrocchi de Faria",
           "athlete_id": 2048264785,
           "distance": 31000.0,
@@ -362,10 +370,10 @@
         {
           "name": "Robert Souza Souza",
           "athlete_id": 61299967,
-          "distance": 23298.800000000003,
-          "activities": 5,
-          "elevation": 62.7,
-          "time": 10325
+          "distance": 27838.199999999997,
+          "activities": 7,
+          "elevation": 104.9,
+          "time": 11782
         },
         {
           "name": "Simone Eduardo",
@@ -374,14 +382,6 @@
           "activities": 14,
           "elevation": 353.1000000000001,
           "time": 18740
-        },
-        {
-          "name": "Marcos Henrique",
-          "athlete_id": 51519974,
-          "distance": 20146.4,
-          "activities": 3,
-          "elevation": 251.1,
-          "time": 6914
         },
         {
           "name": "Gabriel César",
@@ -472,6 +472,14 @@
           "time": 6193
         },
         {
+          "name": "Brenda Lemos",
+          "athlete_id": 127992326,
+          "distance": 11566.8,
+          "activities": 3,
+          "elevation": 150.3,
+          "time": 7879
+        },
+        {
           "name": "Luiz Fernando Oliveira",
           "athlete_id": 116038448,
           "distance": 11506.0,
@@ -510,14 +518,6 @@
           "activities": 1,
           "elevation": 32.0,
           "time": 6951
-        },
-        {
-          "name": "Brenda Lemos",
-          "athlete_id": 127992326,
-          "distance": 9302.2,
-          "activities": 2,
-          "elevation": 124.1,
-          "time": 6198
         },
         {
           "name": "joao vitor leonel",
