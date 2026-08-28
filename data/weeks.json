@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T02:05:11.358484+00:00",
+  "updated_at": "2026-08-28T03:05:09.599995+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -384,6 +384,14 @@
           "time": 11102
         },
         {
+          "name": "Léo Teixeira",
+          "athlete_id": 27077248,
+          "distance": 17848.4,
+          "activities": 2,
+          "elevation": 116.0,
+          "time": 4922
+        },
+        {
           "name": "Eduardo Luiz Silva",
           "athlete_id": 171774480,
           "distance": 16407.5,
@@ -518,14 +526,6 @@
           "activities": 1,
           "elevation": 64.2,
           "time": 3713
-        },
-        {
-          "name": "Léo Teixeira",
-          "athlete_id": 27077248,
-          "distance": 7000.0,
-          "activities": 1,
-          "elevation": 0.0,
-          "time": 2078
         },
         {
           "name": "Lara França",
