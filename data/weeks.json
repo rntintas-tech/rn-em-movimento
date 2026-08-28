@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T21:05:10.288584+00:00",
+  "updated_at": "2026-08-28T22:05:08.863626+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -392,6 +392,14 @@
           "time": 11102
         },
         {
+          "name": "Vitor Oliveira",
+          "athlete_id": 207596870,
+          "distance": 19083.7,
+          "activities": 4,
+          "elevation": 75.9,
+          "time": 7032
+        },
+        {
           "name": "Léo Teixeira",
           "athlete_id": 27077248,
           "distance": 17848.4,
@@ -446,14 +454,6 @@
           "activities": 5,
           "elevation": 140.4,
           "time": 8032
-        },
-        {
-          "name": "Vitor Oliveira",
-          "athlete_id": 207596870,
-          "distance": 13394.800000000001,
-          "activities": 3,
-          "elevation": 53.1,
-          "time": 4882
         },
         {
           "name": "Cristiane Silva",
