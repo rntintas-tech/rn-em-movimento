@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T18:05:12.190702+00:00",
+  "updated_at": "2026-08-28T19:05:11.511164+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -528,6 +528,14 @@
           "time": 2920
         },
         {
+          "name": "Eduardo Emílio",
+          "athlete_id": 89582256,
+          "distance": 8727.6,
+          "activities": 2,
+          "elevation": 213.9,
+          "time": 3708
+        },
+        {
           "name": "Ewerton Batista",
           "athlete_id": 1953513757,
           "distance": 8582.7,
@@ -574,14 +582,6 @@
           "activities": 1,
           "elevation": 16.2,
           "time": 1362
-        },
-        {
-          "name": "Eduardo Emílio",
-          "athlete_id": 89582256,
-          "distance": 3252.5,
-          "activities": 1,
-          "elevation": 76.6,
-          "time": 2080
         },
         {
           "name": "Guilherme Bueno",
