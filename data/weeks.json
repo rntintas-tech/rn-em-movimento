@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T23:05:11.023711+00:00",
+  "updated_at": "2026-08-28T00:05:12.348121+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -400,6 +400,14 @@
           "time": 5830
         },
         {
+          "name": "OTAVIO SOUZA",
+          "athlete_id": 165298024,
+          "distance": 14083.2,
+          "activities": 2,
+          "elevation": 81.8,
+          "time": 4363
+        },
+        {
           "name": "Valquiria Pimenta",
           "athlete_id": 1614692909,
           "distance": 13631.2,
@@ -464,6 +472,14 @@
           "time": 4649
         },
         {
+          "name": "Willian Moreira",
+          "athlete_id": 184147346,
+          "distance": 10168.0,
+          "activities": 1,
+          "elevation": 177.4,
+          "time": 6146
+        },
+        {
           "name": "Paula Petrocchi de Faria",
           "athlete_id": 2048264785,
           "distance": 10000.0,
@@ -472,20 +488,20 @@
           "time": 3419
         },
         {
+          "name": "Andreia Gonçalves Silva",
+          "athlete_id": 820594507,
+          "distance": 9916.2,
+          "activities": 1,
+          "elevation": 32.0,
+          "time": 6951
+        },
+        {
           "name": "Brenda Lemos",
           "athlete_id": 127992326,
           "distance": 9302.2,
           "activities": 2,
           "elevation": 124.1,
           "time": 6198
-        },
-        {
-          "name": "OTAVIO SOUZA",
-          "athlete_id": 165298024,
-          "distance": 9023.2,
-          "activities": 1,
-          "elevation": 77.2,
-          "time": 2620
         },
         {
           "name": "Ewerton Batista",
