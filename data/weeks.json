@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T15:05:10.827100+00:00",
+  "updated_at": "2026-08-28T16:05:11.026485+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -520,6 +520,14 @@
           "time": 6198
         },
         {
+          "name": "joao vitor leonel",
+          "athlete_id": 151878632,
+          "distance": 9053.5,
+          "activities": 2,
+          "elevation": 12.8,
+          "time": 2920
+        },
+        {
           "name": "Ewerton Batista",
           "athlete_id": 1953513757,
           "distance": 8582.7,
@@ -542,14 +550,6 @@
           "activities": 1,
           "elevation": 33.0,
           "time": 4408
-        },
-        {
-          "name": "joao vitor leonel",
-          "athlete_id": 151878632,
-          "distance": 5013.9,
-          "activities": 1,
-          "elevation": 12.8,
-          "time": 1526
         },
         {
           "name": "Juninho Lima",
