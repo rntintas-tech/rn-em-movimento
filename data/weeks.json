@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T09:05:16.561492+00:00",
+  "updated_at": "2026-08-28T10:05:09.747804+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -456,6 +456,14 @@
           "time": 4001
         },
         {
+          "name": "Luiz Fernando Oliveira",
+          "athlete_id": 116038448,
+          "distance": 11506.0,
+          "activities": 2,
+          "elevation": 173.8,
+          "time": 4858
+        },
+        {
           "name": "Victor Carvalho",
           "athlete_id": 145182515,
           "distance": 11027.8,
@@ -534,14 +542,6 @@
           "activities": 1,
           "elevation": 33.0,
           "time": 4408
-        },
-        {
-          "name": "Luiz Fernando Oliveira",
-          "athlete_id": 116038448,
-          "distance": 5376.8,
-          "activities": 1,
-          "elevation": 81.9,
-          "time": 2301
         },
         {
           "name": "joao vitor leonel",
