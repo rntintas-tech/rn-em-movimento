@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T21:05:09.858614+00:00",
+  "updated_at": "2026-08-29T22:05:12.244984+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -440,6 +440,14 @@
           "time": 8898
         },
         {
+          "name": "Valquiria Pimenta",
+          "athlete_id": 1614692909,
+          "distance": 17355.600000000002,
+          "activities": 6,
+          "elevation": 184.4,
+          "time": 10572
+        },
+        {
           "name": "Luiz Fernando Oliveira",
           "athlete_id": 116038448,
           "distance": 17311.6,
@@ -480,12 +488,12 @@
           "time": 4363
         },
         {
-          "name": "Valquiria Pimenta",
-          "athlete_id": 1614692909,
-          "distance": 13631.2,
-          "activities": 5,
-          "elevation": 140.4,
-          "time": 8032
+          "name": "Brenda Lemos",
+          "athlete_id": 127992326,
+          "distance": 12262.4,
+          "activities": 4,
+          "elevation": 162.70000000000002,
+          "time": 8479
         },
         {
           "name": "Bruno Ribeiro",
@@ -494,14 +502,6 @@
           "activities": 2,
           "elevation": 41.2,
           "time": 6193
-        },
-        {
-          "name": "Brenda Lemos",
-          "athlete_id": 127992326,
-          "distance": 11566.8,
-          "activities": 3,
-          "elevation": 150.3,
-          "time": 7879
         },
         {
           "name": "Victor Carvalho",
