@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T23:05:09.105010+00:00",
+  "updated_at": "2026-08-29T00:05:13.618460+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -376,6 +376,14 @@
           "time": 11782
         },
         {
+          "name": "Juliano Pereira Pires",
+          "athlete_id": 102641735,
+          "distance": 25358.1,
+          "activities": 3,
+          "elevation": 252.0,
+          "time": 9581
+        },
+        {
           "name": "Simone Eduardo",
           "athlete_id": 1791606203,
           "distance": 21063.000000000004,
@@ -408,6 +416,14 @@
           "time": 4922
         },
         {
+          "name": "IGOR WILKEN",
+          "athlete_id": 156577060,
+          "distance": 16646.9,
+          "activities": 2,
+          "elevation": 168.70000000000002,
+          "time": 5921
+        },
+        {
           "name": "Eduardo Luiz Silva",
           "athlete_id": 171774480,
           "distance": 16407.5,
@@ -430,14 +446,6 @@
           "activities": 6,
           "elevation": 0.0,
           "time": 8410
-        },
-        {
-          "name": "Juliano Pereira Pires",
-          "athlete_id": 102641735,
-          "distance": 14981.4,
-          "activities": 2,
-          "elevation": 149.0,
-          "time": 5830
         },
         {
           "name": "OTAVIO SOUZA",
@@ -566,14 +574,6 @@
           "activities": 1,
           "elevation": 0.0,
           "time": 1868
-        },
-        {
-          "name": "IGOR WILKEN",
-          "athlete_id": 156577060,
-          "distance": 4646.6,
-          "activities": 1,
-          "elevation": 22.8,
-          "time": 1503
         },
         {
           "name": "Arthur Magalhaes",
