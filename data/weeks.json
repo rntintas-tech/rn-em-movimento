@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T11:05:11.666807+00:00",
+  "updated_at": "2026-08-29T12:05:09.360680+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -416,6 +416,14 @@
           "time": 7032
         },
         {
+          "name": "Cristiane Silva",
+          "athlete_id": 2048394068,
+          "distance": 18216.699999999997,
+          "activities": 6,
+          "elevation": 208.60000000000002,
+          "time": 13728
+        },
+        {
           "name": "Léo Teixeira",
           "athlete_id": 27077248,
           "distance": 17848.4,
@@ -446,14 +454,6 @@
           "activities": 3,
           "elevation": 85.0,
           "time": 5211
-        },
-        {
-          "name": "Cristiane Silva",
-          "athlete_id": 2048394068,
-          "distance": 15218.699999999999,
-          "activities": 5,
-          "elevation": 168.89999999999998,
-          "time": 11452
         },
         {
           "name": "Elias Soares",
