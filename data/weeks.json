@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T17:05:10.646837+00:00",
+  "updated_at": "2026-08-29T17:54:13.575993+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -386,10 +386,10 @@
         {
           "name": "Simone Eduardo",
           "athlete_id": 1791606203,
-          "distance": 22821.9,
-          "activities": 15,
-          "elevation": 361.7000000000001,
-          "time": 20197
+          "distance": 23872.600000000002,
+          "activities": 16,
+          "elevation": 404.0000000000001,
+          "time": 21153
         },
         {
           "name": "IGOR WILKEN",
