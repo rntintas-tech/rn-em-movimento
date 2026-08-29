@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T10:05:12.244418+00:00",
+  "updated_at": "2026-08-29T11:05:11.666807+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -384,20 +384,20 @@
           "time": 9581
         },
         {
+          "name": "Simone Eduardo",
+          "athlete_id": 1791606203,
+          "distance": 22821.9,
+          "activities": 15,
+          "elevation": 361.7000000000001,
+          "time": 20197
+        },
+        {
           "name": "IGOR WILKEN",
           "athlete_id": 156577060,
           "distance": 22661.8,
           "activities": 3,
           "elevation": 241.2,
           "time": 10309
-        },
-        {
-          "name": "Simone Eduardo",
-          "athlete_id": 1791606203,
-          "distance": 21063.000000000004,
-          "activities": 14,
-          "elevation": 353.1000000000001,
-          "time": 18740
         },
         {
           "name": "Gabriel César",
@@ -448,6 +448,14 @@
           "time": 5211
         },
         {
+          "name": "Cristiane Silva",
+          "athlete_id": 2048394068,
+          "distance": 15218.699999999999,
+          "activities": 5,
+          "elevation": 168.89999999999998,
+          "time": 11452
+        },
+        {
           "name": "Elias Soares",
           "athlete_id": 2047991960,
           "distance": 15100.0,
@@ -470,14 +478,6 @@
           "activities": 5,
           "elevation": 140.4,
           "time": 8032
-        },
-        {
-          "name": "Cristiane Silva",
-          "athlete_id": 2048394068,
-          "distance": 13388.0,
-          "activities": 4,
-          "elevation": 158.2,
-          "time": 10148
         },
         {
           "name": "Bruno Ribeiro",
