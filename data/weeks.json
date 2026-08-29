@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T22:05:12.244984+00:00",
+  "updated_at": "2026-08-29T23:05:09.826307+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -472,6 +472,14 @@
           "time": 5211
         },
         {
+          "name": "Arthur Magalhaes",
+          "athlete_id": 107971152,
+          "distance": 15187.8,
+          "activities": 2,
+          "elevation": 57.900000000000006,
+          "time": 5355
+        },
+        {
           "name": "Elias Soares",
           "athlete_id": 2047991960,
           "distance": 15100.0,
@@ -590,14 +598,6 @@
           "activities": 1,
           "elevation": 0.0,
           "time": 1868
-        },
-        {
-          "name": "Arthur Magalhaes",
-          "athlete_id": 107971152,
-          "distance": 4185.9,
-          "activities": 1,
-          "elevation": 16.2,
-          "time": 1362
         },
         {
           "name": "Guilherme Bueno",
