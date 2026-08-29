@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T16:05:10.863971+00:00",
+  "updated_at": "2026-08-29T17:05:10.646837+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -352,20 +352,20 @@
       "end": "2026-08-30",
       "athletes": [
         {
+          "name": "Paula Petrocchi de Faria",
+          "athlete_id": 2048264785,
+          "distance": 38000.0,
+          "activities": 3,
+          "elevation": 0.0,
+          "time": 13912
+        },
+        {
           "name": "Marcos Henrique",
           "athlete_id": 51519974,
           "distance": 36573.100000000006,
           "activities": 4,
           "elevation": 419.19999999999993,
           "time": 12468
-        },
-        {
-          "name": "Paula Petrocchi de Faria",
-          "athlete_id": 2048264785,
-          "distance": 31000.0,
-          "activities": 2,
-          "elevation": 0.0,
-          "time": 11165
         },
         {
           "name": "Robert Souza Souza",
