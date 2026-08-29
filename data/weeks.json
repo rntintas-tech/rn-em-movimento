@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T12:05:09.360680+00:00",
+  "updated_at": "2026-08-29T13:05:11.129156+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -510,6 +510,22 @@
           "activities": 2,
           "elevation": 122.30000000000001,
           "time": 4649
+        },
+        {
+          "name": "Kamila Souza",
+          "athlete_id": 159888595,
+          "distance": 10600.2,
+          "activities": 1,
+          "elevation": 254.8,
+          "time": 8280
+        },
+        {
+          "name": "Nandara Mármaro",
+          "athlete_id": 182505493,
+          "distance": 10510.5,
+          "activities": 1,
+          "elevation": 258.1,
+          "time": 8191
         },
         {
           "name": "Willian Moreira",
