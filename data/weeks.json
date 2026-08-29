@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T23:05:09.826307+00:00",
+  "updated_at": "2026-08-29T23:13:06.517285+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -370,10 +370,10 @@
         {
           "name": "Robert Souza Souza",
           "athlete_id": 61299967,
-          "distance": 27838.199999999997,
-          "activities": 7,
-          "elevation": 104.9,
-          "time": 11782
+          "distance": 34843.7,
+          "activities": 8,
+          "elevation": 170.6,
+          "time": 13665
         },
         {
           "name": "Juliano Pereira Pires",
