@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T13:05:11.129156+00:00",
+  "updated_at": "2026-08-29T14:05:11.113049+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -432,6 +432,14 @@
           "time": 4922
         },
         {
+          "name": "Luciana Vanessa",
+          "athlete_id": 128063984,
+          "distance": 17472.3,
+          "activities": 2,
+          "elevation": 150.0,
+          "time": 8898
+        },
+        {
           "name": "Luiz Fernando Oliveira",
           "athlete_id": 116038448,
           "distance": 17311.6,
@@ -566,14 +574,6 @@
           "activities": 1,
           "elevation": 166.8,
           "time": 5388
-        },
-        {
-          "name": "Luciana Vanessa",
-          "athlete_id": 128063984,
-          "distance": 7279.5,
-          "activities": 1,
-          "elevation": 64.2,
-          "time": 3713
         },
         {
           "name": "Lara França",
