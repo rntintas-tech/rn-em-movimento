@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T12:05:12.517986+00:00",
+  "updated_at": "2026-08-30T12:46:36.176037+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -376,6 +376,14 @@
           "time": 14422
         },
         {
+          "name": "Luiz Fernando Oliveira",
+          "athlete_id": 116038448,
+          "distance": 27353.4,
+          "activities": 4,
+          "elevation": 349.70000000000005,
+          "time": 11378
+        },
+        {
           "name": "Vitor Oliveira",
           "athlete_id": 207596870,
           "distance": 26604.700000000004,
@@ -446,14 +454,6 @@
           "activities": 6,
           "elevation": 184.4,
           "time": 10572
-        },
-        {
-          "name": "Luiz Fernando Oliveira",
-          "athlete_id": 116038448,
-          "distance": 17311.6,
-          "activities": 3,
-          "elevation": 261.8,
-          "time": 7290
         },
         {
           "name": "Eduardo Luiz Silva",
@@ -528,6 +528,14 @@
           "time": 6193
         },
         {
+          "name": "Lara França",
+          "athlete_id": 48626528,
+          "distance": 11722.7,
+          "activities": 2,
+          "elevation": 169.2,
+          "time": 7266
+        },
+        {
           "name": "Victor Fernandes",
           "athlete_id": 189241572,
           "distance": 10667.800000000001,
@@ -584,12 +592,12 @@
           "time": 5388
         },
         {
-          "name": "Lara França",
-          "athlete_id": 48626528,
-          "distance": 6013.1,
+          "name": "Neto Sassarrão",
+          "athlete_id": 206113030,
+          "distance": 7088.7,
           "activities": 1,
-          "elevation": 33.0,
-          "time": 4408
+          "elevation": 12.4,
+          "time": 3262
         },
         {
           "name": "Juninho Lima",
