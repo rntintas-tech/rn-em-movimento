@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T02:05:13.794384+00:00",
+  "updated_at": "2026-08-30T03:05:11.537686+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -464,6 +464,14 @@
           "time": 9128
         },
         {
+          "name": "Victor Carvalho",
+          "athlete_id": 145182515,
+          "distance": 16257.8,
+          "activities": 3,
+          "elevation": 221.0,
+          "time": 8034
+        },
+        {
           "name": "Guilherme Siqueira",
           "athlete_id": 50526574,
           "distance": 15858.9,
@@ -510,14 +518,6 @@
           "activities": 2,
           "elevation": 41.2,
           "time": 6193
-        },
-        {
-          "name": "Victor Carvalho",
-          "athlete_id": 145182515,
-          "distance": 11027.8,
-          "activities": 2,
-          "elevation": 41.0,
-          "time": 3860
         },
         {
           "name": "Victor Fernandes",
