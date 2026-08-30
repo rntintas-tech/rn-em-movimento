@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T11:05:11.368356+00:00",
+  "updated_at": "2026-08-30T12:05:12.517986+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -480,6 +480,14 @@
           "time": 5211
         },
         {
+          "name": "Andreia Gonçalves Silva",
+          "athlete_id": 820594507,
+          "distance": 15332.2,
+          "activities": 2,
+          "elevation": 49.1,
+          "time": 10614
+        },
+        {
           "name": "Arthur Magalhaes",
           "athlete_id": 107971152,
           "distance": 15187.8,
@@ -550,14 +558,6 @@
           "activities": 1,
           "elevation": 177.4,
           "time": 6146
-        },
-        {
-          "name": "Andreia Gonçalves Silva",
-          "athlete_id": 820594507,
-          "distance": 9916.2,
-          "activities": 1,
-          "elevation": 32.0,
-          "time": 6951
         },
         {
           "name": "joao vitor leonel",
