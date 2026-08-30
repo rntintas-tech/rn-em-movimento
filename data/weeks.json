@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T13:05:10.684823+00:00",
+  "updated_at": "2026-08-30T14:05:10.410016+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -408,6 +408,14 @@
           "time": 10309
         },
         {
+          "name": "Brenda Lemos",
+          "athlete_id": 127992326,
+          "distance": 20015.9,
+          "activities": 6,
+          "elevation": 362.4,
+          "time": 15329
+        },
+        {
           "name": "Gabriel César",
           "athlete_id": 81671329,
           "distance": 19129.7,
@@ -510,14 +518,6 @@
           "activities": 2,
           "elevation": 81.8,
           "time": 4363
-        },
-        {
-          "name": "Brenda Lemos",
-          "athlete_id": 127992326,
-          "distance": 13160.8,
-          "activities": 5,
-          "elevation": 168.20000000000002,
-          "time": 9338
         },
         {
           "name": "Bruno Ribeiro",
