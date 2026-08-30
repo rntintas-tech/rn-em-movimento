@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T14:05:10.410016+00:00",
+  "updated_at": "2026-08-30T15:05:11.955975+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -376,6 +376,14 @@
           "time": 14422
         },
         {
+          "name": "Léo Teixeira",
+          "athlete_id": 27077248,
+          "distance": 27397.7,
+          "activities": 3,
+          "elevation": 189.0,
+          "time": 7526
+        },
+        {
           "name": "Vitor Oliveira",
           "athlete_id": 207596870,
           "distance": 26604.700000000004,
@@ -430,14 +438,6 @@
           "activities": 6,
           "elevation": 208.60000000000002,
           "time": 13728
-        },
-        {
-          "name": "Léo Teixeira",
-          "athlete_id": 27077248,
-          "distance": 17848.4,
-          "activities": 2,
-          "elevation": 116.0,
-          "time": 4922
         },
         {
           "name": "Luciana Vanessa",
@@ -496,12 +496,28 @@
           "time": 10614
         },
         {
+          "name": "OTAVIO SOUZA",
+          "athlete_id": 165298024,
+          "distance": 15218.400000000001,
+          "activities": 3,
+          "elevation": 90.0,
+          "time": 4716
+        },
+        {
           "name": "Arthur Magalhaes",
           "athlete_id": 107971152,
           "distance": 15187.8,
           "activities": 2,
           "elevation": 57.900000000000006,
           "time": 5355
+        },
+        {
+          "name": "Ewerton Batista",
+          "athlete_id": 1953513757,
+          "distance": 15104.0,
+          "activities": 2,
+          "elevation": 256.20000000000005,
+          "time": 9110
         },
         {
           "name": "Elias Soares",
@@ -512,12 +528,12 @@
           "time": 8410
         },
         {
-          "name": "OTAVIO SOUZA",
-          "athlete_id": 165298024,
-          "distance": 14083.2,
-          "activities": 2,
-          "elevation": 81.8,
-          "time": 4363
+          "name": "joao vitor leonel",
+          "athlete_id": 151878632,
+          "distance": 15058.9,
+          "activities": 3,
+          "elevation": 24.8,
+          "time": 4922
         },
         {
           "name": "Bruno Ribeiro",
@@ -568,28 +584,12 @@
           "time": 6146
         },
         {
-          "name": "joao vitor leonel",
-          "athlete_id": 151878632,
-          "distance": 9053.5,
-          "activities": 2,
-          "elevation": 12.8,
-          "time": 2920
-        },
-        {
           "name": "Eduardo Emílio",
           "athlete_id": 89582256,
           "distance": 8727.6,
           "activities": 2,
           "elevation": 213.9,
           "time": 3708
-        },
-        {
-          "name": "Ewerton Batista",
-          "athlete_id": 1953513757,
-          "distance": 8582.7,
-          "activities": 1,
-          "elevation": 166.8,
-          "time": 5388
         },
         {
           "name": "Neto Sassarrão",
