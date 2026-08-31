@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T12:05:12.042303+00:00",
+  "updated_at": "2026-08-31T13:05:13.992521+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -631,6 +631,14 @@
       "start": "2026-08-31",
       "end": "2026-09-06",
       "athletes": [
+        {
+          "name": "Paula Petrocchi de Faria",
+          "athlete_id": 2048264785,
+          "distance": 7000.0,
+          "activities": 1,
+          "elevation": 0.0,
+          "time": 2841
+        },
         {
           "name": "Luiz Fernando Oliveira",
           "athlete_id": 116038448,
