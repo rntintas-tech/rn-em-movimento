@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T10:05:12.883893+00:00",
+  "updated_at": "2026-08-31T11:05:10.133898+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -638,6 +638,22 @@
           "activities": 1,
           "elevation": 79.3,
           "time": 2269
+        },
+        {
+          "name": "Cristiane Silva",
+          "athlete_id": 2048394068,
+          "distance": 2074.8,
+          "activities": 1,
+          "elevation": 25.1,
+          "time": 1653
+        },
+        {
+          "name": "Simone Eduardo",
+          "athlete_id": 1791606203,
+          "distance": 1691.0,
+          "activities": 1,
+          "elevation": 4.8,
+          "time": 1381
         }
       ]
     }
