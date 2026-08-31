@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T17:05:11.715604+00:00",
+  "updated_at": "2026-08-31T18:05:13.253246+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -662,6 +662,14 @@
           "activities": 1,
           "elevation": 25.1,
           "time": 1653
+        },
+        {
+          "name": "Elias Soares",
+          "athlete_id": 2047991960,
+          "distance": 2000.0,
+          "activities": 1,
+          "elevation": 0.0,
+          "time": 972
         }
       ]
     }
