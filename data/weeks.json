@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T23:05:09.907293+00:00",
+  "updated_at": "2026-08-31T23:56:02.983794+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -631,6 +631,14 @@
       "start": "2026-08-31",
       "end": "2026-09-06",
       "athletes": [
+        {
+          "name": "Bruno Ribeiro",
+          "athlete_id": 4162713,
+          "distance": 7772.5,
+          "activities": 1,
+          "elevation": 29.8,
+          "time": 3391
+        },
         {
           "name": "Paula Petrocchi de Faria",
           "athlete_id": 2048264785,
