@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T09:05:09.649943+00:00",
+  "updated_at": "2026-08-31T10:05:12.883893+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -458,7 +458,7 @@
         {
           "name": "Luiz Fernando Oliveira",
           "athlete_id": 116038448,
-          "distance": 17311.600000000002,
+          "distance": 17311.6,
           "activities": 3,
           "elevation": 261.8,
           "time": 7290
@@ -630,7 +630,16 @@
       "label": "Semana 3",
       "start": "2026-08-31",
       "end": "2026-09-06",
-      "athletes": []
+      "athletes": [
+        {
+          "name": "Luiz Fernando Oliveira",
+          "athlete_id": 116038448,
+          "distance": 5429.4,
+          "activities": 1,
+          "elevation": 79.3,
+          "time": 2269
+        }
+      ]
     }
   ]
 }
