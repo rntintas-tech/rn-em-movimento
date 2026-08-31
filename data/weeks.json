@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T23:05:12.761923+00:00",
+  "updated_at": "2026-08-31T00:05:10.817172+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -426,10 +426,10 @@
         {
           "name": "Gabriel César",
           "athlete_id": 81671329,
-          "distance": 19129.7,
-          "activities": 4,
-          "elevation": 393.70000000000005,
-          "time": 11102
+          "distance": 19890.3,
+          "activities": 5,
+          "elevation": 400.70000000000005,
+          "time": 11542
         },
         {
           "name": "Cristiane Silva",
@@ -598,6 +598,14 @@
           "activities": 1,
           "elevation": 12.4,
           "time": 3262
+        },
+        {
+          "name": "Gabriel Azevedo",
+          "athlete_id": 154722056,
+          "distance": 6922.2,
+          "activities": 1,
+          "elevation": 126.0,
+          "time": 2413
         },
         {
           "name": "Juninho Lima",
