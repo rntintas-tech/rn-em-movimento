@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T11:05:12.275788+00:00",
+  "updated_at": "2026-09-01T12:05:11.153109+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -640,6 +640,14 @@
           "time": 3391
         },
         {
+          "name": "Cristiane Silva",
+          "athlete_id": 2048394068,
+          "distance": 7481.0,
+          "activities": 2,
+          "elevation": 90.30000000000001,
+          "time": 5478
+        },
+        {
           "name": "Paula Petrocchi de Faria",
           "athlete_id": 2048264785,
           "distance": 7000.0,
@@ -718,14 +726,6 @@
           "activities": 1,
           "elevation": 34.6,
           "time": 1965
-        },
-        {
-          "name": "Cristiane Silva",
-          "athlete_id": 2048394068,
-          "distance": 2074.8,
-          "activities": 1,
-          "elevation": 25.1,
-          "time": 1653
         }
       ]
     }
