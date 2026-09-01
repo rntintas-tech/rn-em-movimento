@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T09:56:50.376863+00:00",
+  "updated_at": "2026-09-01T10:05:09.630054+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -696,6 +696,14 @@
           "time": 4005
         },
         {
+          "name": "Elias Soares",
+          "athlete_id": 2047991960,
+          "distance": 3844.5,
+          "activities": 2,
+          "elevation": 37.7,
+          "time": 1547
+        },
+        {
           "name": "Marcos Henrique",
           "athlete_id": 51519974,
           "distance": 3240.0,
@@ -704,20 +712,20 @@
           "time": 1732
         },
         {
+          "name": "Valquiria Pimenta",
+          "athlete_id": 1614692909,
+          "distance": 2949.3,
+          "activities": 1,
+          "elevation": 34.6,
+          "time": 1965
+        },
+        {
           "name": "Cristiane Silva",
           "athlete_id": 2048394068,
           "distance": 2074.8,
           "activities": 1,
           "elevation": 25.1,
           "time": 1653
-        },
-        {
-          "name": "Elias Soares",
-          "athlete_id": 2047991960,
-          "distance": 2000.0,
-          "activities": 1,
-          "elevation": 0.0,
-          "time": 972
         }
       ]
     }
