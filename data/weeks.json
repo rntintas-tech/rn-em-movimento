@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T02:05:10.430393+00:00",
+  "updated_at": "2026-09-01T03:05:11.612949+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -378,10 +378,10 @@
         {
           "name": "Léo Teixeira",
           "athlete_id": 27077248,
-          "distance": 27397.7,
-          "activities": 3,
-          "elevation": 189.0,
-          "time": 7526
+          "distance": 32405.3,
+          "activities": 4,
+          "elevation": 232.0,
+          "time": 8893
         },
         {
           "name": "Vitor Oliveira",
