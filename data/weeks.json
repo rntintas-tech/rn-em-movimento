@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T15:05:11.779344+00:00",
+  "updated_at": "2026-09-01T16:05:11.600206+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -718,6 +718,14 @@
           "activities": 1,
           "elevation": 29.6,
           "time": 1732
+        },
+        {
+          "name": "joao vitor leonel",
+          "athlete_id": 151878632,
+          "distance": 3028.9,
+          "activities": 1,
+          "elevation": 0.0,
+          "time": 1135
         },
         {
           "name": "Valquiria Pimenta",
