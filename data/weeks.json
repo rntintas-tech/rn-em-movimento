@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T14:44:27.844765+00:00",
+  "updated_at": "2026-09-01T15:05:11.779344+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -648,20 +648,20 @@
           "time": 5478
         },
         {
+          "name": "Simone Eduardo",
+          "athlete_id": 1791606203,
+          "distance": 7301.5,
+          "activities": 5,
+          "elevation": 109.69999999999999,
+          "time": 6607
+        },
+        {
           "name": "Paula Petrocchi de Faria",
           "athlete_id": 2048264785,
           "distance": 7000.0,
           "activities": 1,
           "elevation": 0.0,
           "time": 2841
-        },
-        {
-          "name": "Simone Eduardo",
-          "athlete_id": 1791606203,
-          "distance": 6239.4,
-          "activities": 4,
-          "elevation": 65.39999999999999,
-          "time": 5528
         },
         {
           "name": "Eduardo Luiz Silva",
