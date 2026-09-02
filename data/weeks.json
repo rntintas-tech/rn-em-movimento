@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T10:05:12.657700+00:00",
+  "updated_at": "2026-09-02T11:05:12.623725+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -648,20 +648,28 @@
           "time": 7215
         },
         {
+          "name": "Paula Petrocchi de Faria",
+          "athlete_id": 2048264785,
+          "distance": 10000.0,
+          "activities": 2,
+          "elevation": 0.0,
+          "time": 3916
+        },
+        {
+          "name": "Cristiane Silva",
+          "athlete_id": 2048394068,
+          "distance": 9573.5,
+          "activities": 3,
+          "elevation": 121.30000000000001,
+          "time": 6874
+        },
+        {
           "name": "Bruno Ribeiro",
           "athlete_id": 4162713,
           "distance": 7772.5,
           "activities": 1,
           "elevation": 29.8,
           "time": 3391
-        },
-        {
-          "name": "Cristiane Silva",
-          "athlete_id": 2048394068,
-          "distance": 7481.0,
-          "activities": 2,
-          "elevation": 90.30000000000001,
-          "time": 5478
         },
         {
           "name": "Simone Eduardo",
@@ -678,14 +686,6 @@
           "activities": 1,
           "elevation": 0.0,
           "time": 2012
-        },
-        {
-          "name": "Paula Petrocchi de Faria",
-          "athlete_id": 2048264785,
-          "distance": 7000.0,
-          "activities": 1,
-          "elevation": 0.0,
-          "time": 2841
         },
         {
           "name": "Vitor Oliveira",
