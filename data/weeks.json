@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T12:05:10.178461+00:00",
+  "updated_at": "2026-09-02T13:05:11.432880+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -632,20 +632,20 @@
       "end": "2026-09-06",
       "athletes": [
         {
+          "name": "Paula Petrocchi de Faria",
+          "athlete_id": 2048264785,
+          "distance": 21000.0,
+          "activities": 4,
+          "elevation": 0.0,
+          "time": 8248
+        },
+        {
           "name": "Robert Souza Souza",
           "athlete_id": 61299967,
           "distance": 14919.300000000001,
           "activities": 2,
           "elevation": 19.1,
           "time": 4557
-        },
-        {
-          "name": "Paula Petrocchi de Faria",
-          "athlete_id": 2048264785,
-          "distance": 13500.0,
-          "activities": 3,
-          "elevation": 0.0,
-          "time": 5311
         },
         {
           "name": "Eduardo Luiz Silva",
