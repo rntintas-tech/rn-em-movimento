@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T13:05:11.432880+00:00",
+  "updated_at": "2026-09-02T14:05:09.408733+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -688,6 +688,14 @@
           "time": 2012
         },
         {
+          "name": "Guilherme Siqueira",
+          "athlete_id": 50526574,
+          "distance": 6595.5,
+          "activities": 2,
+          "elevation": 20.0,
+          "time": 2461
+        },
+        {
           "name": "Vitor Oliveira",
           "athlete_id": 207596870,
           "distance": 5626.7,
@@ -750,14 +758,6 @@
           "activities": 1,
           "elevation": 34.6,
           "time": 1965
-        },
-        {
-          "name": "Guilherme Siqueira",
-          "athlete_id": 50526574,
-          "distance": 1589.7,
-          "activities": 1,
-          "elevation": 0.0,
-          "time": 714
         }
       ]
     }
