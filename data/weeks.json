@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T23:05:10.472537+00:00",
+  "updated_at": "2026-09-02T23:34:19.392808+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -648,20 +648,20 @@
           "time": 10497
         },
         {
+          "name": "Eduardo Luiz Silva",
+          "athlete_id": 171774480,
+          "distance": 18283.5,
+          "activities": 3,
+          "elevation": 44.6,
+          "time": 12122
+        },
+        {
           "name": "Robert Souza Souza",
           "athlete_id": 61299967,
           "distance": 14919.300000000001,
           "activities": 2,
           "elevation": 19.1,
           "time": 4557
-        },
-        {
-          "name": "Eduardo Luiz Silva",
-          "athlete_id": 171774480,
-          "distance": 10862.8,
-          "activities": 2,
-          "elevation": 29.0,
-          "time": 7215
         },
         {
           "name": "Cristiane Silva",
@@ -684,7 +684,7 @@
           "athlete_id": 1791606203,
           "distance": 7301.5,
           "activities": 5,
-          "elevation": 109.69999999999999,
+          "elevation": 109.7,
           "time": 6607
         },
         {
