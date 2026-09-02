@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T15:09:26.885780+00:00",
+  "updated_at": "2026-09-02T16:05:11.553080+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -640,6 +640,14 @@
           "time": 8248
         },
         {
+          "name": "Luciana Vanessa",
+          "athlete_id": 128063984,
+          "distance": 20062.5,
+          "activities": 1,
+          "elevation": 221.9,
+          "time": 10497
+        },
+        {
           "name": "Robert Souza Souza",
           "athlete_id": 61299967,
           "distance": 14919.300000000001,
@@ -696,6 +704,14 @@
           "time": 2461
         },
         {
+          "name": "joao vitor leonel",
+          "athlete_id": 151878632,
+          "distance": 6044.700000000001,
+          "activities": 2,
+          "elevation": 0.0,
+          "time": 2249
+        },
+        {
           "name": "Vitor Oliveira",
           "athlete_id": 207596870,
           "distance": 5626.7,
@@ -742,14 +758,6 @@
           "activities": 1,
           "elevation": 29.6,
           "time": 1732
-        },
-        {
-          "name": "joao vitor leonel",
-          "athlete_id": 151878632,
-          "distance": 3028.9,
-          "activities": 1,
-          "elevation": 0.0,
-          "time": 1135
         },
         {
           "name": "Valquiria Pimenta",
