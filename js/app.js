@@ -6,6 +6,16 @@
 
 const DATA_URL = "data/weeks.json";
 
+/* meta individual do desafio e data-limite (fim do dia 15/09, -03) */
+const META_KM = 80;
+const CHALLENGE_END = new Date("2026-09-15T23:59:59-03:00");
+
+/* dias restantes até 15/09, contando o dia atual (mín. 1 para não dividir por zero) */
+function daysRemaining() {
+  const ms = CHALLENGE_END - new Date();
+  return Math.max(1, Math.ceil(ms / 86400000));
+}
+
 const state = {
   weeks: [],        // [{id, label, start, end, athletes: [{name, distance, activities, elevation, time}]}]
   selected: "all",  // "all" | week id
@@ -180,22 +190,36 @@ function renderTable(athletes) {
 
   tbody.innerHTML = "";
   if (rows.length === 0) {
-    tbody.innerHTML = `<tr class="empty-row"><td colspan="6">Nenhum atleta encontrado.</td></tr>`;
+    tbody.innerHTML = `<tr class="empty-row"><td colspan="8">Nenhum atleta encontrado.</td></tr>`;
     note.textContent = "";
     return;
   }
+
+  const daysLeft = daysRemaining();
+  const metaFmt = (v) => v.toLocaleString("pt-BR", { minimumFractionDigits: 1, maximumFractionDigits: 1 });
 
   rows.forEach((a, i) => {
     const tr = document.createElement("tr");
     tr.className = "athlete-row";
     if (state.sortDir === "desc" && i < 3) tr.classList.add(`top-${i + 1}`);
+
+    const faltam = Math.max(0, META_KM - a.distance / 1000);
+    const metaCell = faltam <= 0
+      ? `<span class="meta-done">🎯 batida</span>`
+      : `${metaFmt(faltam)}<span class="unit">km</span>`;
+    const perDayCell = faltam <= 0
+      ? `<span class="unit">—</span>`
+      : `${metaFmt(faltam / daysLeft)}<span class="unit">km/dia</span>`;
+
     tr.innerHTML = `
       <td class="col-rank">${i + 1}</td>
       <td class="col-name">${escapeHtml(a.name)}</td>
       <td class="col-num">${fmt.km(a.distance)}<span class="unit">km</span></td>
       <td class="col-num">${fmt.int(a.activities)}</td>
       <td class="col-num">${fmt.elev(a.elevation)}<span class="unit">m</span></td>
-      <td class="col-num">${fmt.time(a.time)}</td>`;
+      <td class="col-num">${fmt.time(a.time)}</td>
+      <td class="col-num col-meta">${metaCell}</td>
+      <td class="col-num col-meta">${perDayCell}</td>`;
     tr.addEventListener("click", () => toggleGapRow(tr, a, rows));
     tbody.appendChild(tr);
   });
@@ -223,7 +247,7 @@ function toggleGapRow(tr, athlete, rows) {
   const gap = document.createElement("tr");
   gap.className = "gap-row";
   const td = document.createElement("td");
-  td.colSpan = 6;
+  td.colSpan = 8;
 
   let chips;
   if (pos === 1) {

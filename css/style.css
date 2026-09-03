@@ -473,6 +473,12 @@ td.col-name .you-tag {
 td.col-num { text-align: right; font-variant-numeric: tabular-nums; }
 td.col-num .unit { font-size: 11px; color: var(--text-soft); margin-left: 3px; }
 
+/* colunas de meta (faltam p/ 80 km + ritmo diário) */
+.col-meta { background: rgba(228, 4, 33, 0.045); }
+td.col-meta { font-weight: 600; color: var(--red, #e40421); }
+td.col-meta .unit { color: var(--text-soft); font-weight: 400; }
+td.col-meta .meta-done { color: var(--neon, #3cff00); font-weight: 700; }
+
 tbody tr.empty-row td {
   text-align: center;
   padding: 40px 16px;
