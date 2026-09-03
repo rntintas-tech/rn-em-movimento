@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T17:05:10.335755+00:00",
+  "updated_at": "2026-09-03T18:05:45.861530+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -656,6 +656,14 @@
           "time": 10497
         },
         {
+          "name": "Léo Teixeira",
+          "athlete_id": 27077248,
+          "distance": 16008.8,
+          "activities": 3,
+          "elevation": 35.0,
+          "time": 4450
+        },
+        {
           "name": "Robert Souza Souza",
           "athlete_id": 61299967,
           "distance": 14919.300000000001,
@@ -718,14 +726,6 @@
           "activities": 5,
           "elevation": 109.7,
           "time": 6607
-        },
-        {
-          "name": "Léo Teixeira",
-          "athlete_id": 27077248,
-          "distance": 7000.0,
-          "activities": 1,
-          "elevation": 0.0,
-          "time": 2012
         },
         {
           "name": "Guilherme Siqueira",
