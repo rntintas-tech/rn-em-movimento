@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T20:05:09.442616+00:00",
+  "updated_at": "2026-09-03T21:05:11.889659+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -672,6 +672,14 @@
           "time": 4557
         },
         {
+          "name": "Juninho Lima",
+          "athlete_id": 50603323,
+          "distance": 14833.300000000001,
+          "activities": 2,
+          "elevation": 146.39999999999998,
+          "time": 7210
+        },
+        {
           "name": "Cristiane Silva",
           "athlete_id": 2048394068,
           "distance": 14347.3,
@@ -766,14 +774,6 @@
           "activities": 1,
           "elevation": 55.4,
           "time": 1693
-        },
-        {
-          "name": "Juninho Lima",
-          "athlete_id": 50603323,
-          "distance": 4791.6,
-          "activities": 1,
-          "elevation": 77.3,
-          "time": 2848
         },
         {
           "name": "Marcos Henrique",
