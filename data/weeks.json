@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T21:39:22.568289+00:00",
+  "updated_at": "2026-09-03T22:05:09.568891+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -774,6 +774,14 @@
           "activities": 1,
           "elevation": 55.4,
           "time": 1693
+        },
+        {
+          "name": "Juliano Pereira Pires",
+          "athlete_id": 102641735,
+          "distance": 4916.2,
+          "activities": 1,
+          "elevation": 36.0,
+          "time": 1616
         },
         {
           "name": "Marcos Henrique",
