@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T22:05:09.568891+00:00",
+  "updated_at": "2026-09-03T23:05:13.553330+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -634,10 +634,10 @@
         {
           "name": "Eduardo Luiz Silva",
           "athlete_id": 171774480,
-          "distance": 21406.9,
-          "activities": 4,
-          "elevation": 91.69999999999999,
-          "time": 14118
+          "distance": 28925.200000000004,
+          "activities": 5,
+          "elevation": 108.8,
+          "time": 18831
         },
         {
           "name": "Paula Petrocchi de Faria",
@@ -742,6 +742,14 @@
           "activities": 2,
           "elevation": 20.0,
           "time": 2461
+        },
+        {
+          "name": "Willian Moreira",
+          "athlete_id": 184147346,
+          "distance": 6038.8,
+          "activities": 1,
+          "elevation": 70.9,
+          "time": 2522
         },
         {
           "name": "Vitor Oliveira",
