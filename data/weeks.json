@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T13:05:16.751816+00:00",
+  "updated_at": "2026-09-03T14:05:10.923311+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -672,6 +672,14 @@
           "time": 10360
         },
         {
+          "name": "Victor Carvalho",
+          "athlete_id": 145182515,
+          "distance": 12022.599999999999,
+          "activities": 2,
+          "elevation": 103.0,
+          "time": 4460
+        },
+        {
           "name": "Luiz Fernando Oliveira",
           "athlete_id": 116038448,
           "distance": 10836.099999999999,
@@ -750,14 +758,6 @@
           "activities": 3,
           "elevation": 37.7,
           "time": 2402
-        },
-        {
-          "name": "Victor Carvalho",
-          "athlete_id": 145182515,
-          "distance": 5009.7,
-          "activities": 1,
-          "elevation": 40.0,
-          "time": 1835
         },
         {
           "name": "Nandara Mármaro",
