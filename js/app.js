@@ -203,13 +203,13 @@ function renderTable(athletes) {
     tr.className = "athlete-row";
     if (state.sortDir === "desc" && i < 3) tr.classList.add(`top-${i + 1}`);
 
-    const faltam = Math.max(0, META_KM - a.distance / 1000);
-    const metaCell = faltam <= 0
-      ? `<span class="meta-done">🎯 batida</span>`
-      : `${metaFmt(faltam)}<span class="unit">km</span>`;
-    const perDayCell = faltam <= 0
-      ? `<span class="unit">—</span>`
-      : `${metaFmt(faltam / daysLeft)}<span class="unit">km/dia</span>`;
+    const faltam = META_KM - a.distance / 1000;
+    const metaCell = faltam > 0
+      ? `<span class="meta-faltam">${metaFmt(faltam)}<span class="unit">km</span></span>`
+      : `<span class="meta-passou">+${metaFmt(-faltam)}<span class="unit">km</span></span>`;
+    const perDayCell = faltam > 0
+      ? `${metaFmt(faltam / daysLeft)}<span class="unit">km/dia</span>`
+      : `<span class="meta-done">🎯 batida</span>`;
 
     tr.innerHTML = `
       <td class="col-rank">${i + 1}</td>
