@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T09:05:11.403343+00:00",
+  "updated_at": "2026-09-04T10:05:09.774520+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -736,6 +736,14 @@
           "time": 6607
         },
         {
+          "name": "Elias Soares",
+          "athlete_id": 2047991960,
+          "distance": 6844.5,
+          "activities": 4,
+          "elevation": 37.7,
+          "time": 3309
+        },
+        {
           "name": "Guilherme Siqueira",
           "athlete_id": 50526574,
           "distance": 6595.5,
@@ -768,14 +776,6 @@
           "time": 1414
         },
         {
-          "name": "Elias Soares",
-          "athlete_id": 2047991960,
-          "distance": 5244.5,
-          "activities": 3,
-          "elevation": 37.7,
-          "time": 2402
-        },
-        {
           "name": "Nandara Mármaro",
           "athlete_id": 182505493,
           "distance": 5006.2,
@@ -792,6 +792,14 @@
           "time": 1616
         },
         {
+          "name": "Brenda Lemos",
+          "athlete_id": 127992326,
+          "distance": 4678.700000000001,
+          "activities": 2,
+          "elevation": 158.3,
+          "time": 3792
+        },
+        {
           "name": "Marcos Henrique",
           "athlete_id": 51519974,
           "distance": 3240.0,
@@ -806,14 +814,6 @@
           "activities": 1,
           "elevation": 9.9,
           "time": 1055
-        },
-        {
-          "name": "Brenda Lemos",
-          "athlete_id": 127992326,
-          "distance": 2330.9,
-          "activities": 1,
-          "elevation": 79.8,
-          "time": 2067
         }
       ]
     }
