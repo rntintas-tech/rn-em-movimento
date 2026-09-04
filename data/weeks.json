@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T22:05:12.404721+00:00",
+  "updated_at": "2026-09-04T22:58:30.875617+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -656,6 +656,14 @@
           "time": 17203
         },
         {
+          "name": "Cristiane Silva",
+          "athlete_id": 2048394068,
+          "distance": 20327.699999999997,
+          "activities": 5,
+          "elevation": 313.0,
+          "time": 15081
+        },
+        {
           "name": "Léo Teixeira",
           "athlete_id": 27077248,
           "distance": 16008.8,
@@ -688,14 +696,6 @@
           "time": 7210
         },
         {
-          "name": "Cristiane Silva",
-          "athlete_id": 2048394068,
-          "distance": 14347.3,
-          "activities": 4,
-          "elevation": 173.20000000000002,
-          "time": 10360
-        },
-        {
           "name": "Victor Carvalho",
           "athlete_id": 145182515,
           "distance": 12022.599999999999,
@@ -710,6 +710,14 @@
           "activities": 2,
           "elevation": 161.1,
           "time": 4528
+        },
+        {
+          "name": "Vitor Oliveira",
+          "athlete_id": 207596870,
+          "distance": 10245.8,
+          "activities": 2,
+          "elevation": 27.700000000000003,
+          "time": 3605
         },
         {
           "name": "Valquiria Pimenta",
@@ -766,14 +774,6 @@
           "activities": 1,
           "elevation": 70.9,
           "time": 2522
-        },
-        {
-          "name": "Vitor Oliveira",
-          "athlete_id": 207596870,
-          "distance": 5626.7,
-          "activities": 1,
-          "elevation": 14.3,
-          "time": 1801
         },
         {
           "name": "OTAVIO SOUZA",
