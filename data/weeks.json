@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T12:05:10.434584+00:00",
+  "updated_at": "2026-09-04T13:05:12.798905+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -632,6 +632,14 @@
       "end": "2026-09-06",
       "athletes": [
         {
+          "name": "Paula Petrocchi de Faria",
+          "athlete_id": 2048264785,
+          "distance": 42001.5,
+          "activities": 5,
+          "elevation": 275.0,
+          "time": 17408
+        },
+        {
           "name": "Eduardo Luiz Silva",
           "athlete_id": 171774480,
           "distance": 31933.0,
@@ -640,20 +648,12 @@
           "time": 20805
         },
         {
-          "name": "Paula Petrocchi de Faria",
-          "athlete_id": 2048264785,
-          "distance": 21000.0,
-          "activities": 4,
-          "elevation": 0.0,
-          "time": 8248
-        },
-        {
           "name": "Luciana Vanessa",
           "athlete_id": 128063984,
-          "distance": 20062.5,
-          "activities": 1,
-          "elevation": 221.9,
-          "time": 10497
+          "distance": 31153.3,
+          "activities": 2,
+          "elevation": 356.3,
+          "time": 17203
         },
         {
           "name": "Léo Teixeira",
@@ -726,6 +726,14 @@
           "activities": 6,
           "elevation": 116.79999999999998,
           "time": 7606
+        },
+        {
+          "name": "Marcos Henrique",
+          "athlete_id": 51519974,
+          "distance": 8341.0,
+          "activities": 2,
+          "elevation": 189.4,
+          "time": 3375
         },
         {
           "name": "Bruno Ribeiro",
@@ -806,14 +814,6 @@
           "activities": 2,
           "elevation": 158.3,
           "time": 3792
-        },
-        {
-          "name": "Marcos Henrique",
-          "athlete_id": 51519974,
-          "distance": 3240.0,
-          "activities": 1,
-          "elevation": 29.6,
-          "time": 1732
         },
         {
           "name": "Arthur Magalhaes",
