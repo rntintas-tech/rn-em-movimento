@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T12:05:10.167088+00:00",
+  "updated_at": "2026-09-05T12:51:00.229752+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -664,6 +664,14 @@
           "time": 15081
         },
         {
+          "name": "Brenda Lemos",
+          "athlete_id": 127992326,
+          "distance": 18537.9,
+          "activities": 3,
+          "elevation": 431.7,
+          "time": 15716
+        },
+        {
           "name": "joao vitor leonel",
           "athlete_id": 151878632,
           "distance": 18078.4,
@@ -822,14 +830,6 @@
           "activities": 1,
           "elevation": 55.4,
           "time": 1693
-        },
-        {
-          "name": "Brenda Lemos",
-          "athlete_id": 127992326,
-          "distance": 4678.700000000001,
-          "activities": 2,
-          "elevation": 158.3,
-          "time": 3792
         },
         {
           "name": "Arthur Magalhaes",
