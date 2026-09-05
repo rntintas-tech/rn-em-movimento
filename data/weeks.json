@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T00:05:09.874498+00:00",
+  "updated_at": "2026-09-05T00:49:38.724291+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -696,6 +696,14 @@
           "time": 7210
         },
         {
+          "name": "Bruno Ribeiro",
+          "athlete_id": 4162713,
+          "distance": 14777.5,
+          "activities": 2,
+          "elevation": 59.0,
+          "time": 6716
+        },
+        {
           "name": "Victor Carvalho",
           "athlete_id": 145182515,
           "distance": 12022.599999999999,
@@ -744,14 +752,6 @@
           "time": 3375
         },
         {
-          "name": "Bruno Ribeiro",
-          "athlete_id": 4162713,
-          "distance": 7772.5,
-          "activities": 1,
-          "elevation": 29.8,
-          "time": 3391
-        },
-        {
           "name": "Elias Soares",
           "athlete_id": 2047991960,
           "distance": 6844.5,
@@ -766,6 +766,14 @@
           "activities": 2,
           "elevation": 20.0,
           "time": 2461
+        },
+        {
+          "name": "Gabriel Azevedo",
+          "athlete_id": 154722056,
+          "distance": 6291.7,
+          "activities": 1,
+          "elevation": 135.0,
+          "time": 2302
         },
         {
           "name": "Willian Moreira",
