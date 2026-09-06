@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T23:05:10.783298+00:00",
+  "updated_at": "2026-09-06T00:01:07.776416+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -634,10 +634,10 @@
         {
           "name": "Paula Petrocchi de Faria",
           "athlete_id": 2048264785,
-          "distance": 42001.5,
-          "activities": 5,
+          "distance": 50001.5,
+          "activities": 6,
           "elevation": 275.0,
-          "time": 17408
+          "time": 20668
         },
         {
           "name": "Eduardo Luiz Silva",
