@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T13:05:09.596711+00:00",
+  "updated_at": "2026-09-06T14:05:10.259047+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -656,6 +656,14 @@
           "time": 20805
         },
         {
+          "name": "Juliano Pereira Pires",
+          "athlete_id": 102641735,
+          "distance": 29724.3,
+          "activities": 7,
+          "elevation": 320.4,
+          "time": 11615
+        },
+        {
           "name": "Léo Teixeira",
           "athlete_id": 27077248,
           "distance": 28014.5,
@@ -704,6 +712,14 @@
           "time": 5065
         },
         {
+          "name": "Luiz Fernando Oliveira",
+          "athlete_id": 116038448,
+          "distance": 15876.4,
+          "activities": 3,
+          "elevation": 216.39999999999998,
+          "time": 6528
+        },
+        {
           "name": "Nandara Mármaro",
           "athlete_id": 182505493,
           "distance": 15645.5,
@@ -728,28 +744,12 @@
           "time": 6716
         },
         {
-          "name": "Juliano Pereira Pires",
-          "athlete_id": 102641735,
-          "distance": 13029.0,
-          "activities": 3,
-          "elevation": 145.0,
-          "time": 4687
-        },
-        {
           "name": "Victor Carvalho",
           "athlete_id": 145182515,
           "distance": 12022.599999999999,
           "activities": 2,
           "elevation": 103.0,
           "time": 4460
-        },
-        {
-          "name": "Luiz Fernando Oliveira",
-          "athlete_id": 116038448,
-          "distance": 10836.099999999999,
-          "activities": 2,
-          "elevation": 161.1,
-          "time": 4528
         },
         {
           "name": "fillipe silva",
