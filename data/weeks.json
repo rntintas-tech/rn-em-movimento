@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T14:05:10.259047+00:00",
+  "updated_at": "2026-09-06T15:05:09.990089+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -672,20 +672,20 @@
           "time": 7701
         },
         {
+          "name": "Cristiane Silva",
+          "athlete_id": 2048394068,
+          "distance": 21334.9,
+          "activities": 6,
+          "elevation": 322.70000000000005,
+          "time": 16158
+        },
+        {
           "name": "joao vitor leonel",
           "athlete_id": 151878632,
           "distance": 21084.5,
           "activities": 6,
           "elevation": 0.0,
           "time": 7804
-        },
-        {
-          "name": "Cristiane Silva",
-          "athlete_id": 2048394068,
-          "distance": 20327.699999999997,
-          "activities": 5,
-          "elevation": 313.0,
-          "time": 15081
         },
         {
           "name": "Vitor Oliveira",
