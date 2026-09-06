@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T10:05:10.411736+00:00",
+  "updated_at": "2026-09-06T11:05:09.261903+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -656,6 +656,14 @@
           "time": 17203
         },
         {
+          "name": "joao vitor leonel",
+          "athlete_id": 151878632,
+          "distance": 21084.5,
+          "activities": 6,
+          "elevation": 0.0,
+          "time": 7804
+        },
+        {
           "name": "Cristiane Silva",
           "athlete_id": 2048394068,
           "distance": 20327.699999999997,
@@ -664,20 +672,20 @@
           "time": 15081
         },
         {
+          "name": "Vitor Oliveira",
+          "athlete_id": 207596870,
+          "distance": 18712.8,
+          "activities": 4,
+          "elevation": 117.0,
+          "time": 7927
+        },
+        {
           "name": "Brenda Lemos",
           "athlete_id": 127992326,
           "distance": 18537.9,
           "activities": 3,
           "elevation": 431.7,
           "time": 15716
-        },
-        {
-          "name": "joao vitor leonel",
-          "athlete_id": 151878632,
-          "distance": 18078.4,
-          "activities": 5,
-          "elevation": 0.0,
-          "time": 6677
         },
         {
           "name": "Robert Souza Souza",
@@ -694,14 +702,6 @@
           "activities": 3,
           "elevation": 35.0,
           "time": 4450
-        },
-        {
-          "name": "Vitor Oliveira",
-          "athlete_id": 207596870,
-          "distance": 15779.400000000001,
-          "activities": 3,
-          "elevation": 42.0,
-          "time": 5417
         },
         {
           "name": "Juninho Lima",
@@ -850,10 +850,10 @@
         {
           "name": "Gabriel César",
           "athlete_id": 81671329,
-          "distance": 302.0,
-          "activities": 1,
-          "elevation": 9.9,
-          "time": 196
+          "distance": 2866.7,
+          "activities": 2,
+          "elevation": 18.200000000000003,
+          "time": 1586
         }
       ]
     }
