@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T15:34:53.890036+00:00",
+  "updated_at": "2026-09-06T16:05:10.793712+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -634,10 +634,10 @@
         {
           "name": "Paula Petrocchi de Faria",
           "athlete_id": 2048264785,
-          "distance": 50001.5,
-          "activities": 6,
+          "distance": 60001.5,
+          "activities": 7,
           "elevation": 275.0,
-          "time": 20668
+          "time": 24750
         },
         {
           "name": "Luciana Vanessa",
