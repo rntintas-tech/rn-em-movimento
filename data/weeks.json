@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T11:05:09.261903+00:00",
+  "updated_at": "2026-09-06T12:05:08.875619+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -640,6 +640,14 @@
           "time": 20668
         },
         {
+          "name": "Luciana Vanessa",
+          "athlete_id": 128063984,
+          "distance": 41219.5,
+          "activities": 3,
+          "elevation": 468.9,
+          "time": 21953
+        },
+        {
           "name": "Eduardo Luiz Silva",
           "athlete_id": 171774480,
           "distance": 31933.0,
@@ -648,12 +656,12 @@
           "time": 20805
         },
         {
-          "name": "Luciana Vanessa",
-          "athlete_id": 128063984,
-          "distance": 31153.3,
-          "activities": 2,
-          "elevation": 356.3,
-          "time": 17203
+          "name": "Léo Teixeira",
+          "athlete_id": 27077248,
+          "distance": 28014.5,
+          "activities": 4,
+          "elevation": 122.0,
+          "time": 7701
         },
         {
           "name": "joao vitor leonel",
@@ -696,12 +704,12 @@
           "time": 5065
         },
         {
-          "name": "Léo Teixeira",
-          "athlete_id": 27077248,
-          "distance": 16008.8,
-          "activities": 3,
-          "elevation": 35.0,
-          "time": 4450
+          "name": "Nandara Mármaro",
+          "athlete_id": 182505493,
+          "distance": 15645.5,
+          "activities": 2,
+          "elevation": 173.9,
+          "time": 5636
         },
         {
           "name": "Juninho Lima",
@@ -822,14 +830,6 @@
           "activities": 1,
           "elevation": 118.3,
           "time": 1965
-        },
-        {
-          "name": "Nandara Mármaro",
-          "athlete_id": 182505493,
-          "distance": 5006.2,
-          "activities": 1,
-          "elevation": 55.4,
-          "time": 1693
         },
         {
           "name": "Arthur Magalhaes",
