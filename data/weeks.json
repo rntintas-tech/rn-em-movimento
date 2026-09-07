@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T21:36:45.013884+00:00",
+  "updated_at": "2026-09-07T22:05:09.864312+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -870,6 +870,14 @@
           "activities": 1,
           "elevation": 146.0,
           "time": 2909
+        },
+        {
+          "name": "Robert Souza Souza",
+          "athlete_id": 61299967,
+          "distance": 5001.3,
+          "activities": 1,
+          "elevation": 45.9,
+          "time": 1353
         },
         {
           "name": "Valquiria Pimenta",
