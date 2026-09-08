@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T20:05:14.581826+00:00",
+  "updated_at": "2026-09-08T21:05:11.903861+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -918,6 +918,22 @@
           "activities": 1,
           "elevation": 54.4,
           "time": 3142
+        },
+        {
+          "name": "Arthur Magalhaes",
+          "athlete_id": 107971152,
+          "distance": 4280.9,
+          "activities": 1,
+          "elevation": 18.8,
+          "time": 1259
+        },
+        {
+          "name": "Cristiane Silva",
+          "athlete_id": 2048394068,
+          "distance": 3154.3,
+          "activities": 1,
+          "elevation": 50.6,
+          "time": 2410
         },
         {
           "name": "Vitor Oliveira",
