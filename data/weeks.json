@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T22:05:10.779549+00:00",
+  "updated_at": "2026-09-08T23:05:10.982806+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -872,6 +872,14 @@
           "time": 2909
         },
         {
+          "name": "Eduardo Luiz Silva",
+          "athlete_id": 171774480,
+          "distance": 7802.6,
+          "activities": 1,
+          "elevation": 39.7,
+          "time": 5131
+        },
+        {
           "name": "fillipe silva",
           "athlete_id": 19837962,
           "distance": 6200.0,
@@ -902,6 +910,14 @@
           "activities": 2,
           "elevation": 0.0,
           "time": 3003
+        },
+        {
+          "name": "Juninho Lima",
+          "athlete_id": 50603323,
+          "distance": 5012.9,
+          "activities": 1,
+          "elevation": 99.9,
+          "time": 1878
         },
         {
           "name": "Robert Souza Souza",
@@ -936,12 +952,28 @@
           "time": 2410
         },
         {
+          "name": "Juliano Pereira Pires",
+          "athlete_id": 102641735,
+          "distance": 3150.0,
+          "activities": 1,
+          "elevation": 0.0,
+          "time": 1297
+        },
+        {
           "name": "Vitor Oliveira",
           "athlete_id": 207596870,
           "distance": 2586.6,
           "activities": 1,
           "elevation": 12.0,
           "time": 1477
+        },
+        {
+          "name": "Kamila Souza",
+          "athlete_id": 159888595,
+          "distance": 398.8,
+          "activities": 1,
+          "elevation": 4.1,
+          "time": 297
         }
       ]
     }
