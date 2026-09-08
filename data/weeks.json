@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T10:05:10.255220+00:00",
+  "updated_at": "2026-09-08T11:05:10.069874+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -870,6 +870,22 @@
           "activities": 1,
           "elevation": 146.0,
           "time": 2909
+        },
+        {
+          "name": "fillipe silva",
+          "athlete_id": 19837962,
+          "distance": 6200.0,
+          "activities": 1,
+          "elevation": 0.0,
+          "time": 2100
+        },
+        {
+          "name": "Léo Teixeira",
+          "athlete_id": 27077248,
+          "distance": 6125.8,
+          "activities": 1,
+          "elevation": 48.0,
+          "time": 1790
         },
         {
           "name": "Willian Moreira",
