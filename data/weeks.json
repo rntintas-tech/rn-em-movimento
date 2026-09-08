@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T08:05:09.384282+00:00",
+  "updated_at": "2026-09-08T09:05:11.377004+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -872,6 +872,14 @@
           "time": 2909
         },
         {
+          "name": "Willian Moreira",
+          "athlete_id": 184147346,
+          "distance": 5800.6,
+          "activities": 1,
+          "elevation": 69.8,
+          "time": 2320
+        },
+        {
           "name": "Robert Souza Souza",
           "athlete_id": 61299967,
           "distance": 5001.3,
@@ -894,6 +902,14 @@
           "activities": 1,
           "elevation": 0.0,
           "time": 1803
+        },
+        {
+          "name": "Vitor Oliveira",
+          "athlete_id": 207596870,
+          "distance": 2586.6,
+          "activities": 1,
+          "elevation": 12.0,
+          "time": 1477
         }
       ]
     }
