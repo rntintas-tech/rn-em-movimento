@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T17:05:10.884167+00:00",
+  "updated_at": "2026-09-08T18:05:11.197985+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -896,6 +896,14 @@
           "time": 2320
         },
         {
+          "name": "Elias Soares",
+          "athlete_id": 2047991960,
+          "distance": 5100.0,
+          "activities": 2,
+          "elevation": 0.0,
+          "time": 3003
+        },
+        {
           "name": "Robert Souza Souza",
           "athlete_id": 61299967,
           "distance": 5001.3,
@@ -910,14 +918,6 @@
           "activities": 1,
           "elevation": 54.4,
           "time": 3142
-        },
-        {
-          "name": "Elias Soares",
-          "athlete_id": 2047991960,
-          "distance": 3200.0,
-          "activities": 1,
-          "elevation": 0.0,
-          "time": 1803
         },
         {
           "name": "Vitor Oliveira",
