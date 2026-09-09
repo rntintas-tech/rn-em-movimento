@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T01:05:10.131993+00:00",
+  "updated_at": "2026-09-09T01:32:29.404243+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -970,10 +970,10 @@
         {
           "name": "Kamila Souza",
           "athlete_id": 159888595,
-          "distance": 398.8,
-          "activities": 1,
-          "elevation": 4.1,
-          "time": 297
+          "distance": 855.8,
+          "activities": 2,
+          "elevation": 14.9,
+          "time": 593
         }
       ]
     }
