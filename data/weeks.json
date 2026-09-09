@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T14:05:13.066421+00:00",
+  "updated_at": "2026-09-09T15:05:11.120328+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -976,20 +976,20 @@
           "time": 1297
         },
         {
+          "name": "Simone Eduardo",
+          "athlete_id": 1791606203,
+          "distance": 2691.3,
+          "activities": 2,
+          "elevation": 53.2,
+          "time": 2291
+        },
+        {
           "name": "Vitor Oliveira",
           "athlete_id": 207596870,
           "distance": 2586.6,
           "activities": 1,
           "elevation": 12.0,
           "time": 1477
-        },
-        {
-          "name": "Simone Eduardo",
-          "athlete_id": 1791606203,
-          "distance": 1679.5,
-          "activities": 1,
-          "elevation": 9.7,
-          "time": 1367
         },
         {
           "name": "Kamila Souza",
