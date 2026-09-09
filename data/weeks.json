@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T09:05:11.314426+00:00",
+  "updated_at": "2026-09-09T10:05:11.661840+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -926,6 +926,14 @@
           "activities": 1,
           "elevation": 45.9,
           "time": 1353
+        },
+        {
+          "name": "Luiz Fernando Oliveira",
+          "athlete_id": 116038448,
+          "distance": 4981.9,
+          "activities": 1,
+          "elevation": 72.4,
+          "time": 1998
         },
         {
           "name": "Valquiria Pimenta",
