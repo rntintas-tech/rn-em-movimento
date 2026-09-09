@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T11:05:12.404745+00:00",
+  "updated_at": "2026-09-09T11:52:51.190077+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -872,6 +872,14 @@
           "time": 3707
         },
         {
+          "name": "Paula Petrocchi de Faria",
+          "athlete_id": 2048264785,
+          "distance": 10000.0,
+          "activities": 3,
+          "elevation": 0.0,
+          "time": 3706
+        },
+        {
           "name": "Gabriel Azevedo",
           "athlete_id": 154722056,
           "distance": 8183.9,
@@ -894,14 +902,6 @@
           "activities": 1,
           "elevation": 48.0,
           "time": 1790
-        },
-        {
-          "name": "Paula Petrocchi de Faria",
-          "athlete_id": 2048264785,
-          "distance": 6000.0,
-          "activities": 2,
-          "elevation": 0.0,
-          "time": 2271
         },
         {
           "name": "Willian Moreira",
