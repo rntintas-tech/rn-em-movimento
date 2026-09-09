@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T16:30:26.059221+00:00",
+  "updated_at": "2026-09-09T17:05:10.109708+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -990,6 +990,14 @@
           "activities": 1,
           "elevation": 12.0,
           "time": 1477
+        },
+        {
+          "name": "Brenda Lemos",
+          "athlete_id": 127992326,
+          "distance": 1840.4,
+          "activities": 1,
+          "elevation": 9.2,
+          "time": 1433
         },
         {
           "name": "Kamila Souza",
