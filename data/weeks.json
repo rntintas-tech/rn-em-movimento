@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T22:05:11.808133+00:00",
+  "updated_at": "2026-09-09T23:05:11.655848+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -864,6 +864,14 @@
       "end": "2026-09-13",
       "athletes": [
         {
+          "name": "Robert Souza Souza",
+          "athlete_id": 61299967,
+          "distance": 13473.500000000002,
+          "activities": 3,
+          "elevation": 57.3,
+          "time": 4771
+        },
+        {
           "name": "fillipe silva",
           "athlete_id": 19837962,
           "distance": 10200.0,
@@ -934,14 +942,6 @@
           "activities": 1,
           "elevation": 99.9,
           "time": 1878
-        },
-        {
-          "name": "Robert Souza Souza",
-          "athlete_id": 61299967,
-          "distance": 5001.3,
-          "activities": 1,
-          "elevation": 45.9,
-          "time": 1353
         },
         {
           "name": "Luiz Fernando Oliveira",
