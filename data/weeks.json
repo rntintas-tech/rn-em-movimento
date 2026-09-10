@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T12:05:10.041032+00:00",
+  "updated_at": "2026-09-10T13:05:13.398104+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -880,6 +880,14 @@
           "time": 9650
         },
         {
+          "name": "Léo Teixeira",
+          "athlete_id": 27077248,
+          "distance": 13915.8,
+          "activities": 2,
+          "elevation": 48.0,
+          "time": 3896
+        },
+        {
           "name": "Robert Souza Souza",
           "athlete_id": 61299967,
           "distance": 13473.500000000002,
@@ -912,20 +920,20 @@
           "time": 2909
         },
         {
+          "name": "Cristiane Silva",
+          "athlete_id": 2048394068,
+          "distance": 7713.799999999999,
+          "activities": 3,
+          "elevation": 96.8,
+          "time": 5745
+        },
+        {
           "name": "Juliano Pereira Pires",
           "athlete_id": 102641735,
           "distance": 6170.0,
           "activities": 2,
           "elevation": 0.0,
           "time": 2552
-        },
-        {
-          "name": "Léo Teixeira",
-          "athlete_id": 27077248,
-          "distance": 6125.8,
-          "activities": 1,
-          "elevation": 48.0,
-          "time": 1790
         },
         {
           "name": "Elias Soares",
@@ -942,14 +950,6 @@
           "activities": 1,
           "elevation": 69.8,
           "time": 2320
-        },
-        {
-          "name": "Cristiane Silva",
-          "athlete_id": 2048394068,
-          "distance": 5270.200000000001,
-          "activities": 2,
-          "elevation": 83.1,
-          "time": 3984
         },
         {
           "name": "Juninho Lima",
