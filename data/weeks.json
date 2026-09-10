@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T01:05:09.840888+00:00",
+  "updated_at": "2026-09-10T02:05:10.045264+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -912,6 +912,14 @@
           "time": 5764
         },
         {
+          "name": "Juliano Pereira Pires",
+          "athlete_id": 102641735,
+          "distance": 6170.0,
+          "activities": 2,
+          "elevation": 0.0,
+          "time": 2552
+        },
+        {
           "name": "Léo Teixeira",
           "athlete_id": 27077248,
           "distance": 6125.8,
@@ -966,14 +974,6 @@
           "activities": 1,
           "elevation": 18.8,
           "time": 1259
-        },
-        {
-          "name": "Juliano Pereira Pires",
-          "athlete_id": 102641735,
-          "distance": 3150.0,
-          "activities": 1,
-          "elevation": 0.0,
-          "time": 1297
         },
         {
           "name": "Simone Eduardo",
