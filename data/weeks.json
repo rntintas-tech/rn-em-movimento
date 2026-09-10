@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T23:05:11.655848+00:00",
+  "updated_at": "2026-09-10T00:04:33.307257+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -864,6 +864,14 @@
       "end": "2026-09-13",
       "athletes": [
         {
+          "name": "Eduardo Luiz Silva",
+          "athlete_id": 171774480,
+          "distance": 14553.400000000001,
+          "activities": 2,
+          "elevation": 51.900000000000006,
+          "time": 9650
+        },
+        {
           "name": "Robert Souza Souza",
           "athlete_id": 61299967,
           "distance": 13473.500000000002,
@@ -896,12 +904,12 @@
           "time": 2909
         },
         {
-          "name": "Eduardo Luiz Silva",
-          "athlete_id": 171774480,
-          "distance": 7802.6,
-          "activities": 1,
-          "elevation": 39.7,
-          "time": 5131
+          "name": "Valquiria Pimenta",
+          "athlete_id": 1614692909,
+          "distance": 7979.0,
+          "activities": 2,
+          "elevation": 127.69999999999999,
+          "time": 5764
         },
         {
           "name": "Léo Teixeira",
@@ -950,14 +958,6 @@
           "activities": 1,
           "elevation": 72.4,
           "time": 1998
-        },
-        {
-          "name": "Valquiria Pimenta",
-          "athlete_id": 1614692909,
-          "distance": 4526.2,
-          "activities": 1,
-          "elevation": 54.4,
-          "time": 3142
         },
         {
           "name": "Arthur Magalhaes",
