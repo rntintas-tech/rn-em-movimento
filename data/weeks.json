@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T15:05:12.450056+00:00",
+  "updated_at": "2026-09-10T16:05:11.380486+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -982,6 +982,14 @@
           "activities": 1,
           "elevation": 18.8,
           "time": 1259
+        },
+        {
+          "name": "joao vitor leonel",
+          "athlete_id": 151878632,
+          "distance": 4031.3,
+          "activities": 1,
+          "elevation": 0.0,
+          "time": 1486
         },
         {
           "name": "Vitor Oliveira",
