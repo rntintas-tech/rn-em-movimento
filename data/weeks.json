@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T10:05:10.891607+00:00",
+  "updated_at": "2026-09-10T11:05:11.983006+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -864,6 +864,14 @@
       "end": "2026-09-13",
       "athletes": [
         {
+          "name": "fillipe silva",
+          "athlete_id": 19837962,
+          "distance": 17925.0,
+          "activities": 3,
+          "elevation": 70.9,
+          "time": 6181
+        },
+        {
           "name": "Eduardo Luiz Silva",
           "athlete_id": 171774480,
           "distance": 14553.400000000001,
@@ -880,12 +888,12 @@
           "time": 4771
         },
         {
-          "name": "fillipe silva",
-          "athlete_id": 19837962,
-          "distance": 10200.0,
-          "activities": 2,
-          "elevation": 0.0,
-          "time": 3707
+          "name": "Valquiria Pimenta",
+          "athlete_id": 1614692909,
+          "distance": 10916.4,
+          "activities": 4,
+          "elevation": 180.1,
+          "time": 7259
         },
         {
           "name": "Paula Petrocchi de Faria",
@@ -894,14 +902,6 @@
           "activities": 3,
           "elevation": 0.0,
           "time": 3706
-        },
-        {
-          "name": "Valquiria Pimenta",
-          "athlete_id": 1614692909,
-          "distance": 9352.099999999999,
-          "activities": 3,
-          "elevation": 149.8,
-          "time": 6393
         },
         {
           "name": "Gabriel Azevedo",
@@ -968,20 +968,20 @@
           "time": 1998
         },
         {
+          "name": "Simone Eduardo",
+          "athlete_id": 1791606203,
+          "distance": 4377.6,
+          "activities": 3,
+          "elevation": 63.6,
+          "time": 3786
+        },
+        {
           "name": "Arthur Magalhaes",
           "athlete_id": 107971152,
           "distance": 4280.9,
           "activities": 1,
           "elevation": 18.8,
           "time": 1259
-        },
-        {
-          "name": "Simone Eduardo",
-          "athlete_id": 1791606203,
-          "distance": 2691.3,
-          "activities": 2,
-          "elevation": 53.2,
-          "time": 2291
         },
         {
           "name": "Vitor Oliveira",
