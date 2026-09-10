@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T16:05:11.380486+00:00",
+  "updated_at": "2026-09-10T17:05:12.348842+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -928,20 +928,20 @@
           "time": 5745
         },
         {
+          "name": "Elias Soares",
+          "athlete_id": 2047991960,
+          "distance": 7100.0,
+          "activities": 4,
+          "elevation": 0.0,
+          "time": 4731
+        },
+        {
           "name": "Juliano Pereira Pires",
           "athlete_id": 102641735,
           "distance": 6170.0,
           "activities": 2,
           "elevation": 0.0,
           "time": 2552
-        },
-        {
-          "name": "Elias Soares",
-          "athlete_id": 2047991960,
-          "distance": 6100.0,
-          "activities": 3,
-          "elevation": 0.0,
-          "time": 4011
         },
         {
           "name": "Willian Moreira",
