@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T10:05:10.394981+00:00",
+  "updated_at": "2026-09-11T11:05:11.189516+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -872,20 +872,20 @@
           "time": 9196
         },
         {
+          "name": "fillipe silva",
+          "athlete_id": 19837962,
+          "distance": 22925.0,
+          "activities": 4,
+          "elevation": 70.9,
+          "time": 7755
+        },
+        {
           "name": "Eduardo Luiz Silva",
           "athlete_id": 171774480,
           "distance": 21603.7,
           "activities": 3,
           "elevation": 61.900000000000006,
           "time": 13901
-        },
-        {
-          "name": "fillipe silva",
-          "athlete_id": 19837962,
-          "distance": 17925.0,
-          "activities": 3,
-          "elevation": 70.9,
-          "time": 6181
         },
         {
           "name": "Juninho Lima",
@@ -902,6 +902,14 @@
           "activities": 2,
           "elevation": 48.0,
           "time": 3896
+        },
+        {
+          "name": "Cristiane Silva",
+          "athlete_id": 2048394068,
+          "distance": 13185.800000000001,
+          "activities": 4,
+          "elevation": 162.5,
+          "time": 9454
         },
         {
           "name": "Valquiria Pimenta",
@@ -926,14 +934,6 @@
           "activities": 1,
           "elevation": 146.0,
           "time": 2909
-        },
-        {
-          "name": "Cristiane Silva",
-          "athlete_id": 2048394068,
-          "distance": 7713.799999999999,
-          "activities": 3,
-          "elevation": 96.8,
-          "time": 5745
         },
         {
           "name": "Victor Carvalho",
@@ -968,20 +968,20 @@
           "time": 2320
         },
         {
+          "name": "Simone Eduardo",
+          "athlete_id": 1791606203,
+          "distance": 5743.6,
+          "activities": 4,
+          "elevation": 73.8,
+          "time": 5105
+        },
+        {
           "name": "Luiz Fernando Oliveira",
           "athlete_id": 116038448,
           "distance": 4981.9,
           "activities": 1,
           "elevation": 72.4,
           "time": 1998
-        },
-        {
-          "name": "Simone Eduardo",
-          "athlete_id": 1791606203,
-          "distance": 4377.6,
-          "activities": 3,
-          "elevation": 63.6,
-          "time": 3786
         },
         {
           "name": "Arthur Magalhaes",
