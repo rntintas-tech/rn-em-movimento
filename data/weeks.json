@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T15:05:13.528296+00:00",
+  "updated_at": "2026-09-11T16:05:10.818181+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -936,6 +936,14 @@
           "time": 2909
         },
         {
+          "name": "joao vitor leonel",
+          "athlete_id": 151878632,
+          "distance": 8054.200000000001,
+          "activities": 2,
+          "elevation": 0.0,
+          "time": 2938
+        },
+        {
           "name": "Victor Carvalho",
           "athlete_id": 145182515,
           "distance": 7308.9,
@@ -950,6 +958,14 @@
           "activities": 4,
           "elevation": 0.0,
           "time": 4731
+        },
+        {
+          "name": "Simone Eduardo",
+          "athlete_id": 1791606203,
+          "distance": 6935.2,
+          "activities": 5,
+          "elevation": 117.6,
+          "time": 6385
         },
         {
           "name": "Juliano Pereira Pires",
@@ -968,14 +984,6 @@
           "time": 2320
         },
         {
-          "name": "Simone Eduardo",
-          "athlete_id": 1791606203,
-          "distance": 5743.6,
-          "activities": 4,
-          "elevation": 73.8,
-          "time": 5105
-        },
-        {
           "name": "Luiz Fernando Oliveira",
           "athlete_id": 116038448,
           "distance": 4981.9,
@@ -990,14 +998,6 @@
           "activities": 1,
           "elevation": 18.8,
           "time": 1259
-        },
-        {
-          "name": "joao vitor leonel",
-          "athlete_id": 151878632,
-          "distance": 4031.3,
-          "activities": 1,
-          "elevation": 0.0,
-          "time": 1486
         },
         {
           "name": "Lara França",
