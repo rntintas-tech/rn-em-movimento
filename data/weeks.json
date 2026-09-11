@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T22:05:12.103786+00:00",
+  "updated_at": "2026-09-11T23:05:10.104765+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -864,20 +864,20 @@
       "end": "2026-09-13",
       "athletes": [
         {
+          "name": "Robert Souza Souza",
+          "athlete_id": 61299967,
+          "distance": 32134.499999999996,
+          "activities": 12,
+          "elevation": 152.9,
+          "time": 11468
+        },
+        {
           "name": "Paula Petrocchi de Faria",
           "athlete_id": 2048264785,
           "distance": 25000.0,
           "activities": 4,
           "elevation": 0.0,
           "time": 9319
-        },
-        {
-          "name": "Robert Souza Souza",
-          "athlete_id": 61299967,
-          "distance": 23284.699999999997,
-          "activities": 5,
-          "elevation": 67.3,
-          "time": 9196
         },
         {
           "name": "fillipe silva",
@@ -920,6 +920,14 @@
           "time": 9454
         },
         {
+          "name": "Luiz Fernando Oliveira",
+          "athlete_id": 116038448,
+          "distance": 11314.5,
+          "activities": 2,
+          "elevation": 166.2,
+          "time": 4478
+        },
+        {
           "name": "Valquiria Pimenta",
           "athlete_id": 1614692909,
           "distance": 10916.4,
@@ -934,6 +942,14 @@
           "activities": 6,
           "elevation": 147.2,
           "time": 10182
+        },
+        {
+          "name": "Juliano Pereira Pires",
+          "athlete_id": 102641735,
+          "distance": 9420.0,
+          "activities": 3,
+          "elevation": 0.0,
+          "time": 3792
         },
         {
           "name": "Gabriel Azevedo",
@@ -976,28 +992,12 @@
           "time": 4731
         },
         {
-          "name": "Juliano Pereira Pires",
-          "athlete_id": 102641735,
-          "distance": 6170.0,
-          "activities": 2,
-          "elevation": 0.0,
-          "time": 2552
-        },
-        {
           "name": "Willian Moreira",
           "athlete_id": 184147346,
           "distance": 5800.6,
           "activities": 1,
           "elevation": 69.8,
           "time": 2320
-        },
-        {
-          "name": "Luiz Fernando Oliveira",
-          "athlete_id": 116038448,
-          "distance": 4981.9,
-          "activities": 1,
-          "elevation": 72.4,
-          "time": 1998
         },
         {
           "name": "Arthur Magalhaes",
