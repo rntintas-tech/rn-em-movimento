@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T12:05:10.106823+00:00",
+  "updated_at": "2026-09-11T13:05:11.172402+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -864,6 +864,14 @@
       "end": "2026-09-13",
       "athletes": [
         {
+          "name": "Paula Petrocchi de Faria",
+          "athlete_id": 2048264785,
+          "distance": 25000.0,
+          "activities": 4,
+          "elevation": 0.0,
+          "time": 9319
+        },
+        {
           "name": "Robert Souza Souza",
           "athlete_id": 61299967,
           "distance": 23284.699999999997,
@@ -918,14 +926,6 @@
           "activities": 4,
           "elevation": 180.1,
           "time": 7259
-        },
-        {
-          "name": "Paula Petrocchi de Faria",
-          "athlete_id": 2048264785,
-          "distance": 10000.0,
-          "activities": 3,
-          "elevation": 0.0,
-          "time": 3706
         },
         {
           "name": "Gabriel Azevedo",
