@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T19:05:16.750335+00:00",
+  "updated_at": "2026-09-11T20:05:10.757642+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -928,6 +928,14 @@
           "time": 7259
         },
         {
+          "name": "Simone Eduardo",
+          "athlete_id": 1791606203,
+          "distance": 10561.1,
+          "activities": 6,
+          "elevation": 147.2,
+          "time": 10182
+        },
+        {
           "name": "Gabriel Azevedo",
           "athlete_id": 154722056,
           "distance": 8183.9,
@@ -958,14 +966,6 @@
           "activities": 4,
           "elevation": 0.0,
           "time": 4731
-        },
-        {
-          "name": "Simone Eduardo",
-          "athlete_id": 1791606203,
-          "distance": 6935.2,
-          "activities": 5,
-          "elevation": 117.6,
-          "time": 6385
         },
         {
           "name": "Juliano Pereira Pires",
