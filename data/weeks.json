@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T23:05:10.106939+00:00",
+  "updated_at": "2026-09-11T00:05:10.864896+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -864,6 +864,14 @@
       "end": "2026-09-13",
       "athletes": [
         {
+          "name": "Robert Souza Souza",
+          "athlete_id": 61299967,
+          "distance": 23284.699999999997,
+          "activities": 5,
+          "elevation": 67.3,
+          "time": 9196
+        },
+        {
           "name": "Eduardo Luiz Silva",
           "athlete_id": 171774480,
           "distance": 21603.7,
@@ -872,20 +880,20 @@
           "time": 13901
         },
         {
-          "name": "Robert Souza Souza",
-          "athlete_id": 61299967,
-          "distance": 18283.0,
-          "activities": 4,
-          "elevation": 67.3,
-          "time": 7620
-        },
-        {
           "name": "fillipe silva",
           "athlete_id": 19837962,
           "distance": 17925.0,
           "activities": 3,
           "elevation": 70.9,
           "time": 6181
+        },
+        {
+          "name": "Juninho Lima",
+          "athlete_id": 50603323,
+          "distance": 15395.0,
+          "activities": 2,
+          "elevation": 201.0,
+          "time": 6667
         },
         {
           "name": "Léo Teixeira",
@@ -958,14 +966,6 @@
           "activities": 1,
           "elevation": 69.8,
           "time": 2320
-        },
-        {
-          "name": "Juninho Lima",
-          "athlete_id": 50603323,
-          "distance": 5012.9,
-          "activities": 1,
-          "elevation": 99.9,
-          "time": 1878
         },
         {
           "name": "Luiz Fernando Oliveira",
