@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T18:46:35.788922+00:00",
+  "updated_at": "2026-09-12T19:05:10.734969+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -990,6 +990,14 @@
           "activities": 4,
           "elevation": 0.0,
           "time": 4731
+        },
+        {
+          "name": "Gabriel César",
+          "athlete_id": 81671329,
+          "distance": 6013.8,
+          "activities": 1,
+          "elevation": 334.7,
+          "time": 3104
         },
         {
           "name": "Willian Moreira",
