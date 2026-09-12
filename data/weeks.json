@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T22:05:08.710334+00:00",
+  "updated_at": "2026-09-12T22:56:58.704196+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -888,6 +888,14 @@
           "time": 7755
         },
         {
+          "name": "Léo Teixeira",
+          "athlete_id": 27077248,
+          "distance": 21667.7,
+          "activities": 4,
+          "elevation": 61.0,
+          "time": 5807
+        },
+        {
           "name": "Eduardo Luiz Silva",
           "athlete_id": 171774480,
           "distance": 21603.7,
@@ -918,14 +926,6 @@
           "activities": 3,
           "elevation": 258.5,
           "time": 6849
-        },
-        {
-          "name": "Léo Teixeira",
-          "athlete_id": 27077248,
-          "distance": 16188.1,
-          "activities": 3,
-          "elevation": 51.0,
-          "time": 4554
         },
         {
           "name": "Gabriel Azevedo",
