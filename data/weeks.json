@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T23:10:53.019885+00:00",
+  "updated_at": "2026-09-12T00:05:10.798085+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -896,6 +896,14 @@
           "time": 13901
         },
         {
+          "name": "Gabriel Azevedo",
+          "athlete_id": 154722056,
+          "distance": 15446.0,
+          "activities": 3,
+          "elevation": 235.0,
+          "time": 5364
+        },
+        {
           "name": "Juninho Lima",
           "athlete_id": 50603323,
           "distance": 15395.0,
@@ -950,14 +958,6 @@
           "activities": 3,
           "elevation": 0.0,
           "time": 3792
-        },
-        {
-          "name": "Gabriel Azevedo",
-          "athlete_id": 154722056,
-          "distance": 8183.9,
-          "activities": 1,
-          "elevation": 146.0,
-          "time": 2909
         },
         {
           "name": "joao vitor leonel",
