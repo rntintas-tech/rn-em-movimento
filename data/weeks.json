@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T11:05:08.974461+00:00",
+  "updated_at": "2026-09-13T11:39:43.965908+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -912,6 +912,14 @@
           "time": 13654
         },
         {
+          "name": "joao vitor leonel",
+          "athlete_id": 151878632,
+          "distance": 18060.7,
+          "activities": 3,
+          "elevation": 98.4,
+          "time": 6126
+        },
+        {
           "name": "Simone Eduardo",
           "athlete_id": 1791606203,
           "distance": 17855.0,
@@ -952,6 +960,14 @@
           "time": 6667
         },
         {
+          "name": "Lara França",
+          "athlete_id": 48626528,
+          "distance": 13693.2,
+          "activities": 2,
+          "elevation": 187.29999999999998,
+          "time": 6894
+        },
+        {
           "name": "Juliano Pereira Pires",
           "athlete_id": 102641735,
           "distance": 9420.0,
@@ -966,14 +982,6 @@
           "activities": 1,
           "elevation": 89.9,
           "time": 3108
-        },
-        {
-          "name": "joao vitor leonel",
-          "athlete_id": 151878632,
-          "distance": 8054.200000000001,
-          "activities": 2,
-          "elevation": 0.0,
-          "time": 2938
         },
         {
           "name": "Vitor Oliveira",
@@ -1022,14 +1030,6 @@
           "activities": 1,
           "elevation": 18.8,
           "time": 1259
-        },
-        {
-          "name": "Lara França",
-          "athlete_id": 48626528,
-          "distance": 3319.3,
-          "activities": 1,
-          "elevation": 17.1,
-          "time": 2307
         },
         {
           "name": "Brenda Lemos",
