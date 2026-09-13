@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T21:05:09.893644+00:00",
+  "updated_at": "2026-09-13T22:05:10.900086+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -920,6 +920,14 @@
           "time": 13901
         },
         {
+          "name": "Simone Eduardo",
+          "athlete_id": 1791606203,
+          "distance": 20363.100000000002,
+          "activities": 8,
+          "elevation": 341.8,
+          "time": 20006
+        },
+        {
           "name": "Valquiria Pimenta",
           "athlete_id": 1614692909,
           "distance": 19602.1,
@@ -950,14 +958,6 @@
           "activities": 3,
           "elevation": 78.8,
           "time": 6694
-        },
-        {
-          "name": "Simone Eduardo",
-          "athlete_id": 1791606203,
-          "distance": 17855.0,
-          "activities": 7,
-          "elevation": 281.3,
-          "time": 17039
         },
         {
           "name": "Gabriel Azevedo",
