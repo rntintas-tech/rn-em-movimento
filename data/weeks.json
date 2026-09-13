@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T06:05:10.778819+00:00",
+  "updated_at": "2026-09-13T07:05:10.297971+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -928,6 +928,14 @@
           "time": 6849
         },
         {
+          "name": "Valquiria Pimenta",
+          "athlete_id": 1614692909,
+          "distance": 15942.0,
+          "activities": 8,
+          "elevation": 305.9,
+          "time": 11092
+        },
+        {
           "name": "Gabriel Azevedo",
           "athlete_id": 154722056,
           "distance": 15446.0,
@@ -942,14 +950,6 @@
           "activities": 2,
           "elevation": 201.0,
           "time": 6667
-        },
-        {
-          "name": "Valquiria Pimenta",
-          "athlete_id": 1614692909,
-          "distance": 14517.599999999999,
-          "activities": 7,
-          "elevation": 269.90000000000003,
-          "time": 10003
         },
         {
           "name": "Juliano Pereira Pires",
