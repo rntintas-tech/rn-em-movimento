@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T10:05:10.144441+00:00",
+  "updated_at": "2026-09-13T11:05:08.974461+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -958,6 +958,14 @@
           "activities": 3,
           "elevation": 0.0,
           "time": 3792
+        },
+        {
+          "name": "Nandara Mármaro",
+          "athlete_id": 182505493,
+          "distance": 8082.5,
+          "activities": 1,
+          "elevation": 89.9,
+          "time": 3108
         },
         {
           "name": "joao vitor leonel",
