@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T18:05:32.624896+00:00",
+  "updated_at": "2026-09-13T19:05:09.529562+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -864,6 +864,14 @@
       "end": "2026-09-13",
       "athletes": [
         {
+          "name": "Paula Petrocchi de Faria",
+          "athlete_id": 2048264785,
+          "distance": 50000.0,
+          "activities": 6,
+          "elevation": 0.0,
+          "time": 19334
+        },
+        {
           "name": "Robert Souza Souza",
           "athlete_id": 61299967,
           "distance": 41501.8,
@@ -878,14 +886,6 @@
           "activities": 3,
           "elevation": 501.70000000000005,
           "time": 15748
-        },
-        {
-          "name": "Paula Petrocchi de Faria",
-          "athlete_id": 2048264785,
-          "distance": 35000.0,
-          "activities": 5,
-          "elevation": 0.0,
-          "time": 13041
         },
         {
           "name": "Luiz Fernando Oliveira",
@@ -970,10 +970,10 @@
         {
           "name": "Lara França",
           "athlete_id": 48626528,
-          "distance": 15130.599999999999,
-          "activities": 3,
-          "elevation": 222.99999999999997,
-          "time": 8207
+          "distance": 13693.2,
+          "activities": 2,
+          "elevation": 187.29999999999998,
+          "time": 6894
         },
         {
           "name": "Nandara Mármaro",
