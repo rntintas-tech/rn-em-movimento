@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T15:05:09.240080+00:00",
+  "updated_at": "2026-09-13T16:05:10.507897+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -872,6 +872,14 @@
           "time": 14011
         },
         {
+          "name": "Juninho Lima",
+          "athlete_id": 50603323,
+          "distance": 35421.0,
+          "activities": 3,
+          "elevation": 501.70000000000005,
+          "time": 15748
+        },
+        {
           "name": "Paula Petrocchi de Faria",
           "athlete_id": 2048264785,
           "distance": 35000.0,
@@ -958,14 +966,6 @@
           "activities": 3,
           "elevation": 235.0,
           "time": 5364
-        },
-        {
-          "name": "Juninho Lima",
-          "athlete_id": 50603323,
-          "distance": 15395.0,
-          "activities": 2,
-          "elevation": 201.0,
-          "time": 6667
         },
         {
           "name": "Lara França",
