@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T17:05:08.965160+00:00",
+  "updated_at": "2026-09-13T18:05:09.941974+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -928,6 +928,14 @@
           "time": 13654
         },
         {
+          "name": "Valquiria Pimenta",
+          "athlete_id": 1614692909,
+          "distance": 18232.899999999998,
+          "activities": 10,
+          "elevation": 333.90000000000003,
+          "time": 12903
+        },
+        {
           "name": "joao vitor leonel",
           "athlete_id": 151878632,
           "distance": 18060.7,
@@ -952,14 +960,6 @@
           "time": 17039
         },
         {
-          "name": "Valquiria Pimenta",
-          "athlete_id": 1614692909,
-          "distance": 17156.2,
-          "activities": 9,
-          "elevation": 322.4,
-          "time": 12001
-        },
-        {
           "name": "Gabriel Azevedo",
           "athlete_id": 154722056,
           "distance": 15446.0,
@@ -970,10 +970,10 @@
         {
           "name": "Lara França",
           "athlete_id": 48626528,
-          "distance": 13693.2,
-          "activities": 2,
-          "elevation": 187.29999999999998,
-          "time": 6894
+          "distance": 15130.599999999999,
+          "activities": 3,
+          "elevation": 222.99999999999997,
+          "time": 8207
         },
         {
           "name": "Nandara Mármaro",
