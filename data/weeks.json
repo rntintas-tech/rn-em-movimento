@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T20:42:52.036804+00:00",
+  "updated_at": "2026-09-13T21:05:09.893644+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -920,20 +920,20 @@
           "time": 13901
         },
         {
+          "name": "Valquiria Pimenta",
+          "athlete_id": 1614692909,
+          "distance": 19602.1,
+          "activities": 11,
+          "elevation": 378.3,
+          "time": 14057
+        },
+        {
           "name": "Cristiane Silva",
           "athlete_id": 2048394068,
           "distance": 18842.600000000002,
           "activities": 5,
           "elevation": 230.2,
           "time": 13654
-        },
-        {
-          "name": "Valquiria Pimenta",
-          "athlete_id": 1614692909,
-          "distance": 18232.899999999998,
-          "activities": 10,
-          "elevation": 333.90000000000003,
-          "time": 12903
         },
         {
           "name": "joao vitor leonel",
