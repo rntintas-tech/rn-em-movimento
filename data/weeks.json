@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T11:39:43.965908+00:00",
+  "updated_at": "2026-09-13T12:05:10.232118+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -880,6 +880,14 @@
           "time": 11468
         },
         {
+          "name": "Luiz Fernando Oliveira",
+          "athlete_id": 116038448,
+          "distance": 27104.199999999997,
+          "activities": 4,
+          "elevation": 359.7,
+          "time": 10673
+        },
+        {
           "name": "fillipe silva",
           "athlete_id": 19837962,
           "distance": 22925.0,
@@ -920,20 +928,20 @@
           "time": 6126
         },
         {
+          "name": "Vitor Oliveira",
+          "athlete_id": 207596870,
+          "distance": 17952.5,
+          "activities": 3,
+          "elevation": 78.8,
+          "time": 6694
+        },
+        {
           "name": "Simone Eduardo",
           "athlete_id": 1791606203,
           "distance": 17855.0,
           "activities": 7,
           "elevation": 281.3,
           "time": 17039
-        },
-        {
-          "name": "Luiz Fernando Oliveira",
-          "athlete_id": 116038448,
-          "distance": 16888.300000000003,
-          "activities": 3,
-          "elevation": 258.5,
-          "time": 6849
         },
         {
           "name": "Valquiria Pimenta",
@@ -968,28 +976,28 @@
           "time": 6894
         },
         {
+          "name": "Nandara Mármaro",
+          "athlete_id": 182505493,
+          "distance": 13082.7,
+          "activities": 2,
+          "elevation": 152.5,
+          "time": 4963
+        },
+        {
+          "name": "Luciana Vanessa",
+          "athlete_id": 128063984,
+          "distance": 10039.0,
+          "activities": 1,
+          "elevation": 108.5,
+          "time": 4675
+        },
+        {
           "name": "Juliano Pereira Pires",
           "athlete_id": 102641735,
           "distance": 9420.0,
           "activities": 3,
           "elevation": 0.0,
           "time": 3792
-        },
-        {
-          "name": "Nandara Mármaro",
-          "athlete_id": 182505493,
-          "distance": 8082.5,
-          "activities": 1,
-          "elevation": 89.9,
-          "time": 3108
-        },
-        {
-          "name": "Vitor Oliveira",
-          "athlete_id": 207596870,
-          "distance": 7894.1,
-          "activities": 2,
-          "elevation": 24.8,
-          "time": 3281
         },
         {
           "name": "Victor Carvalho",
@@ -1022,6 +1030,14 @@
           "activities": 1,
           "elevation": 69.8,
           "time": 2320
+        },
+        {
+          "name": "Guilherme Bueno",
+          "athlete_id": 60914145,
+          "distance": 5047.9,
+          "activities": 1,
+          "elevation": 119.8,
+          "time": 2889
         },
         {
           "name": "Arthur Magalhaes",
