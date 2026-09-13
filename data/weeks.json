@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T19:05:09.529562+00:00",
+  "updated_at": "2026-09-13T20:05:10.822610+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -968,6 +968,14 @@
           "time": 5364
         },
         {
+          "name": "Gabriel César",
+          "athlete_id": 81671329,
+          "distance": 14629.2,
+          "activities": 2,
+          "elevation": 425.0,
+          "time": 6978
+        },
+        {
           "name": "Lara França",
           "athlete_id": 48626528,
           "distance": 13693.2,
@@ -1014,14 +1022,6 @@
           "activities": 4,
           "elevation": 0.0,
           "time": 4731
-        },
-        {
-          "name": "Gabriel César",
-          "athlete_id": 81671329,
-          "distance": 6013.8,
-          "activities": 1,
-          "elevation": 334.7,
-          "time": 3104
         },
         {
           "name": "Willian Moreira",
