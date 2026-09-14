@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T15:05:11.389907+00:00",
+  "updated_at": "2026-09-14T16:05:11.899726+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -1078,6 +1078,14 @@
           "activities": 1,
           "elevation": 0.0,
           "time": 1740
+        },
+        {
+          "name": "Valquiria Pimenta",
+          "athlete_id": 1614692909,
+          "distance": 1463.6,
+          "activities": 1,
+          "elevation": 15.3,
+          "time": 361
         },
         {
           "name": "Simone Eduardo",
