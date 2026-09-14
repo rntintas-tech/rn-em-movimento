@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T10:05:10.530360+00:00",
+  "updated_at": "2026-09-14T10:58:43.843351+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -1070,7 +1070,24 @@
       "label": "Semana 5",
       "start": "2026-09-14",
       "end": "2026-09-20",
-      "athletes": []
+      "athletes": [
+        {
+          "name": "fillipe silva",
+          "athlete_id": 19837962,
+          "distance": 5100.0,
+          "activities": 1,
+          "elevation": 0.0,
+          "time": 1740
+        },
+        {
+          "name": "Simone Eduardo",
+          "athlete_id": 1791606203,
+          "distance": 1177.9,
+          "activities": 1,
+          "elevation": 7.7,
+          "time": 1159
+        }
+      ]
     }
   ]
 }
