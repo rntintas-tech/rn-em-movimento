@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T21:05:09.939323+00:00",
+  "updated_at": "2026-09-15T21:45:48.635372+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -1110,6 +1110,14 @@
           "activities": 1,
           "elevation": 11.2,
           "time": 1135
+        },
+        {
+          "name": "Guilherme Bueno",
+          "athlete_id": 60914145,
+          "distance": 3322.2,
+          "activities": 1,
+          "elevation": 42.7,
+          "time": 1390
         }
       ]
     }
