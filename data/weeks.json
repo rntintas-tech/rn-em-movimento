@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T23:05:09.619345+00:00",
+  "updated_at": "2026-09-15T23:44:13.863840+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -1094,6 +1094,14 @@
           "activities": 4,
           "elevation": 159.20000000000002,
           "time": 6344
+        },
+        {
+          "name": "Léo Teixeira",
+          "athlete_id": 27077248,
+          "distance": 8423.0,
+          "activities": 1,
+          "elevation": 56.0,
+          "time": 2401
         },
         {
           "name": "Luiz Fernando Oliveira",
