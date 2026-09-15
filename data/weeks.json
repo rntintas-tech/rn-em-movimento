@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T20:05:10.246994+00:00",
+  "updated_at": "2026-09-15T21:05:09.939323+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -1102,6 +1102,14 @@
           "activities": 1,
           "elevation": 66.2,
           "time": 1872
+        },
+        {
+          "name": "Arthur Magalhaes",
+          "athlete_id": 107971152,
+          "distance": 3366.5,
+          "activities": 1,
+          "elevation": 11.2,
+          "time": 1135
         }
       ]
     }
