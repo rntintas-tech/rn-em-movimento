@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T12:10:53.783469+00:00",
+  "updated_at": "2026-09-16T00:00:00+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -1104,14 +1104,6 @@
           "time": 2401
         },
         {
-          "name": "Gabriel César",
-          "athlete_id": 81671329,
-          "distance": 8158.8,
-          "activities": 1,
-          "elevation": 179.0,
-          "time": 4348
-        },
-        {
           "name": "Luiz Fernando Oliveira",
           "athlete_id": 116038448,
           "distance": 4835.4,
@@ -1137,5 +1129,7 @@
         }
       ]
     }
-  ]
+  ],
+  "frozen": true,
+  "frozen_reason": "Desafio encerrado 15/09/2026. Semana 5 congelada no snapshot de 15/09 23:05 BRT (ultima captura dentro do prazo)."
 }
