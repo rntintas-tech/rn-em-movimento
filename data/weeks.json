@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T02:05:11.974577+00:00",
+  "updated_at": "2026-09-16T03:05:11.110646+00:00",
   "weeks": [
     {
       "id": "2026-08-17",
@@ -1102,6 +1102,14 @@
           "activities": 1,
           "elevation": 56.0,
           "time": 2401
+        },
+        {
+          "name": "Gabriel César",
+          "athlete_id": 81671329,
+          "distance": 8158.8,
+          "activities": 1,
+          "elevation": 179.0,
+          "time": 4348
         },
         {
           "name": "Luiz Fernando Oliveira",
